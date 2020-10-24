@@ -1,3 +1,26 @@
+PCB Stat Tracker
+----
+
+###### 2020-10-24
+
+\[25albert\] has created a [table top role playing game (TTRPG) stat tracker](https://www.reddit.com/r/electronics/comments/j6g78t/cool_pcb_stat_tracker_i_made_for_ttrpgs/).
+
+[![image](img/2020-10-24_pcb-stat-tracker.jpg)](https://imgur.com/a/NghQDxi)
+
+
+The board uses the PCB as a diffusor for the underlying LEDs.
+In addition, the top layer PCB overhang's flex is used
+to press the underlying tactile switch, creating a nicer user interface.
+
+\[25alpbert\] gives credit to \[[Nick Poole](https://youtu.be/rAXmzt-_NZ4)\] for the
+clever PCB tips and tricks.
+
+([permalink](https://web.archive.org/web/20201024144425/https://www.reddit.com/r/electronics/comments/j6g78t/cool_pcb_stat_tracker_i_made_for_ttrpgs/) [vid]())
+
+###### submitted by \[abetusk\]
+
+---
+
 "Can The Subaltern Speak" Batting Eyelash Mask
 ----
 
@@ -105,6 +128,7 @@ to create tranquility.
 ###### submitted by \[abetusk\]
 
 ---
+
 
 
 
