@@ -1,0 +1,10 @@
+site_name: mechaesthetic
+pages:
+  - index.md
+
+docs_dir: 'posts'
+theme_dir: 'theme'
+extra:
+  base : ""
+
+
