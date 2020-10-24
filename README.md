@@ -25,3 +25,24 @@ Some post guidelines:
   the archive link if necessary
 * Add your name underneath as `Submitted by [<your_id>]` at the bottom as a tiny header (six '#')
 
+All other assets (images, etc.) should go in the `theme` directory, specifically the `theme/img` directory for images.
+
+To build:
+
+```
+mkdocs build --clean
+```
+
+To test locally:
+
+```
+mkdocs serve
+```
+
+Once satisfied, check in all changes, including the screenshots in `theme/imgs`, changes in `posts` and all
+new files created in the `site/` directory and then issue a pull request.
+
+---
+
+If you're not comfortable cloning, editing, pushing and issuing a pull request, feel free to open an issue
+for any suggestions!
