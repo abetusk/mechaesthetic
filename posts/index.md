@@ -15,7 +15,7 @@ to press the underlying tactile switch, creating a nicer user interface.
 \[25alpbert\] gives credit to \[[Nick Poole](https://youtu.be/rAXmzt-_NZ4)\] for the
 clever PCB tips and tricks.
 
-([permalink](https://web.archive.org/web/20201024144425/https://www.reddit.com/r/electronics/comments/j6g78t/cool_pcb_stat_tracker_i_made_for_ttrpgs/) [vid]())
+([permalink](https://web.archive.org/web/20201024144425/https://www.reddit.com/r/electronics/comments/j6g78t/cool_pcb_stat_tracker_i_made_for_ttrpgs/) [vid](https://web.archive.org/web/20201024145053if_/https://www.youtube.com/watch?v=rAXmzt-_NZ4&feature=youtu.be))
 
 ###### submitted by \[abetusk\]
 
