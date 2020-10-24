@@ -1,3 +1,25 @@
+"Can The Subaltern Speak" Batting Eyelash Mask
+----
+
+
+###### 2020-10-24
+
+\[Behnaz Farahi\] gives [details on the making of the "Can The Subaltern Speak?" mask](https://www.youtube.com/watch?v=TAjz19cV3RY).
+
+[![Behnaz Farahi's Batting Eyelash Mask](img/2020-10-24_farahi-mask.gif)](https://www.youtube.com/watch?v=TAjz19cV3RY)
+
+\[Behnaz Farahi\] writes:
+
+> This project is inspired by ... masks worn by the Bandari women from southern Iran. ... these masks were developed during Portuguese colonial rule, as a way of protecting ... from the gaze of slave masters looking for pretty women. ... from a contemporary perspective, they can be seen as ... protecting women from patriarchal colonial oppression.
+
+> Here the ‘wink’ of the sexual predator is subverted into a language to protect women from the advances of a predator. ...
+
+
+([permalink](https://web.archive.org/web/20201024134535if_/https://www.youtube.com/watch?v=TAjz19cV3RY))
+
+###### submitted by \[abetusk\]
+
+---
 
 Sensor LED Ring
 ----
@@ -6,7 +28,7 @@ Sensor LED Ring
 
 \[Joey Castillo\] is working on an [RGB LED sensor ring](https://twitter.com/josecastillo/status/1319682792763101198).
 
-[![image](img/2020-10-24_castillo-ring.jpg)](https://twitter.com/josecastillo/status/1319678368728731648)
+[![RGB LED Ring](img/2020-10-24_castillo-ring.jpg)](https://twitter.com/josecastillo/status/1319678368728731648)
 
 \[Joey Castillo\] writes:
 
@@ -83,5 +105,6 @@ to create tranquility.
 ###### submitted by \[abetusk\]
 
 ---
+
 
 

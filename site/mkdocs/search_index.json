@@ -2,8 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Sensor LED Ring\n\n\n2020-10-24\n\n\n[Joey Castillo] is working on an \nRGB LED sensor ring\n.\n\n\n\n\n[Joey Castillo] writes:\n\n\n\n\n... it's four Dotstar LED's and an LIS2DH accelerometer. ...\n\n\n\n\nStill some issues to work through though:\n\n\n\n\nthe big fail so far: for some reason the SPI Flash chip isn't working, so I don't have room for both the LIS3DH and Dotstar libraries ... \nrunning a rainbow demo, instead of reacting to motion like I'd hoped.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nGhosts and Bats Wire Pendent LEDs\n\n\n2020-10-24\n\n\n[\n@jipraus\n] creates wire ghost and bat LED pendents for halloween:\n\n\n\n\n[@jiipraus] also has \na 10-minute youtube video\n on the build.\n\n\n(\npermalink\n \nvideo\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nCandy Launcher\n\n\n2020-10-24\n\n\n[\n@GeekMomProjects\n] uses laser cut parts and a patchwork of\nmotors, gears and drums to launch mini candies.\n\n\n\n\n\n\n[@GeekMomProjects] writes:\n\n\n\n\n... 3D printed cylinders with grooves for the orange rubber O-rings which I purchased. It's the kind of mechanism my son's VEX robotics team usually uses when their robot has to launch projectiles, so I figured it would work for this application.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSinging Bowls and Servos\n\n\n2020-10-24\n\n\n[\nHelen Leigh\n] uses singing bowls, servos, LEGOs and electronics\nto create tranquility.\n\n\n\n\n[Helen Leigh] writes:\n\n\n\n\nI'm using a #microbit, a prototype of an extremely cute #LEGO compatible microbit breakout board from @BrownDogGadgets (which u can get on Kickstarter for approximately 15 more hours) and a pair of Geek servos.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]", 
+            "text": "\"Can The Subaltern Speak\" Batting Eyelash Mask\n\n\n2020-10-24\n\n\n[Behnaz Farahi] gives \ndetails on the making of the \"Can The Subaltern Speak?\" mask\n.\n\n\n\n\n[Behnaz Farahi] writes:\n\n\n\n\nThis project is inspired by ... masks worn by the Bandari women from southern Iran. ... these masks were developed during Portuguese colonial rule, as a way of protecting ... from the gaze of slave masters looking for pretty women. ... from a contemporary perspective, they can be seen as ... protecting women from patriarchal colonial oppression.\n\n\nHere the \u2018wink\u2019 of the sexual predator is subverted into a language to protect women from the advances of a predator. ...\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSensor LED Ring\n\n\n2020-10-24\n\n\n[Joey Castillo] is working on an \nRGB LED sensor ring\n.\n\n\n\n\n[Joey Castillo] writes:\n\n\n\n\n... it's four Dotstar LED's and an LIS2DH accelerometer. ...\n\n\n\n\nStill some issues to work through though:\n\n\n\n\nthe big fail so far: for some reason the SPI Flash chip isn't working, so I don't have room for both the LIS3DH and Dotstar libraries ... \nrunning a rainbow demo, instead of reacting to motion like I'd hoped.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nGhosts and Bats Wire Pendent LEDs\n\n\n2020-10-24\n\n\n[\n@jipraus\n] creates wire ghost and bat LED pendents for halloween:\n\n\n\n\n[@jiipraus] also has \na 10-minute youtube video\n on the build.\n\n\n(\npermalink\n \nvideo\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nCandy Launcher\n\n\n2020-10-24\n\n\n[\n@GeekMomProjects\n] uses laser cut parts and a patchwork of\nmotors, gears and drums to launch mini candies.\n\n\n\n\n\n\n[@GeekMomProjects] writes:\n\n\n\n\n... 3D printed cylinders with grooves for the orange rubber O-rings which I purchased. It's the kind of mechanism my son's VEX robotics team usually uses when their robot has to launch projectiles, so I figured it would work for this application.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSinging Bowls and Servos\n\n\n2020-10-24\n\n\n[\nHelen Leigh\n] uses singing bowls, servos, LEGOs and electronics\nto create tranquility.\n\n\n\n\n[Helen Leigh] writes:\n\n\n\n\nI'm using a #microbit, a prototype of an extremely cute #LEGO compatible microbit breakout board from @BrownDogGadgets (which u can get on Kickstarter for approximately 15 more hours) and a pair of Geek servos.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]", 
             "title": "Home"
+        }, 
+        {
+            "location": "/#can-the-subaltern-speak-batting-eyelash-mask", 
+            "text": "", 
+            "title": "\"Can The Subaltern Speak\" Batting Eyelash Mask"
+        }, 
+        {
+            "location": "/#2020-10-24", 
+            "text": "[Behnaz Farahi] gives  details on the making of the \"Can The Subaltern Speak?\" mask .   [Behnaz Farahi] writes:   This project is inspired by ... masks worn by the Bandari women from southern Iran. ... these masks were developed during Portuguese colonial rule, as a way of protecting ... from the gaze of slave masters looking for pretty women. ... from a contemporary perspective, they can be seen as ... protecting women from patriarchal colonial oppression.  Here the \u2018wink\u2019 of the sexual predator is subverted into a language to protect women from the advances of a predator. ...   ( permalink )", 
+            "title": "2020-10-24"
+        }, 
+        {
+            "location": "/#submitted-by-91abetusk93", 
+            "text": "", 
+            "title": "submitted by [abetusk]"
         }, 
         {
             "location": "/#sensor-led-ring", 
@@ -11,12 +26,12 @@
             "title": "Sensor LED Ring"
         }, 
         {
-            "location": "/#2020-10-24", 
+            "location": "/#2020-10-24_1", 
             "text": "[Joey Castillo] is working on an  RGB LED sensor ring .   [Joey Castillo] writes:   ... it's four Dotstar LED's and an LIS2DH accelerometer. ...   Still some issues to work through though:   the big fail so far: for some reason the SPI Flash chip isn't working, so I don't have room for both the LIS3DH and Dotstar libraries ... \nrunning a rainbow demo, instead of reacting to motion like I'd hoped.   ( permalink )", 
             "title": "2020-10-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93", 
+            "location": "/#submitted-by-91abetusk93_1", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
@@ -26,12 +41,12 @@
             "title": "Ghosts and Bats Wire Pendent LEDs"
         }, 
         {
-            "location": "/#2020-10-24_1", 
+            "location": "/#2020-10-24_2", 
             "text": "[ @jipraus ] creates wire ghost and bat LED pendents for halloween:   [@jiipraus] also has  a 10-minute youtube video  on the build.  ( permalink   video )", 
             "title": "2020-10-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_1", 
+            "location": "/#submitted-by-91abetusk93_2", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
@@ -41,12 +56,12 @@
             "title": "Candy Launcher"
         }, 
         {
-            "location": "/#2020-10-24_2", 
+            "location": "/#2020-10-24_3", 
             "text": "[ @GeekMomProjects ] uses laser cut parts and a patchwork of\nmotors, gears and drums to launch mini candies.    [@GeekMomProjects] writes:   ... 3D printed cylinders with grooves for the orange rubber O-rings which I purchased. It's the kind of mechanism my son's VEX robotics team usually uses when their robot has to launch projectiles, so I figured it would work for this application.   ( permalink )", 
             "title": "2020-10-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_2", 
+            "location": "/#submitted-by-91abetusk93_3", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
@@ -56,12 +71,12 @@
             "title": "Singing Bowls and Servos"
         }, 
         {
-            "location": "/#2020-10-24_3", 
+            "location": "/#2020-10-24_4", 
             "text": "[ Helen Leigh ] uses singing bowls, servos, LEGOs and electronics\nto create tranquility.   [Helen Leigh] writes:   I'm using a #microbit, a prototype of an extremely cute #LEGO compatible microbit breakout board from @BrownDogGadgets (which u can get on Kickstarter for approximately 15 more hours) and a pair of Geek servos.   ( permalink )", 
             "title": "2020-10-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_3", 
+            "location": "/#submitted-by-91abetusk93_4", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }
