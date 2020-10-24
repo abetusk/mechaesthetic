@@ -17,6 +17,8 @@ motors, gears and drums to launch mini candies.
 
 ([permalink](https://web.archive.org/web/20201024095242/https://twitter.com/GeekMomProjects/status/1319717692698284033))
 
+###### submitted by \[abetusk\]
+
 ---
 
 Singing Bowls and Servos
@@ -34,6 +36,8 @@ to create tranquility.
 > I'm using a #microbit, a prototype of an extremely cute #LEGO compatible microbit breakout board from @BrownDogGadgets (which u can get on Kickstarter for approximately 15 more hours) and a pair of Geek servos.
 
 ([permalink](https://web.archive.org/web/20201024091931/https://twitter.com/helenleigh/status/1319420968964624395))
+
+###### submitted by \[abetusk\]
 
 ---
 
