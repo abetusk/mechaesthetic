@@ -1,4 +1,44 @@
 
+
+Infinity Mirror RGB LED Mask
+----
+
+###### 2020-11-02
+
+\[Norman Wink\] uses infinity mirrors, RGB LEDs and 3D printing to create a [Halloween mask](https://www.youtube.com/watch?v=M4eL62GatDc).
+
+[![image](img/2020-11-02_infinity-mask.gif)](https://www.youtube.com/watch?v=M4eL62GatDc)
+
+
+([permalink](https://web.archive.org/web/20201102201754/https://www.youtube.com/watch?v=M4eL62GatDc))
+
+###### submitted by \[abetusk\]
+
+---
+
+
+PCB 16 Segment Display
+---
+
+###### 2020-11-02
+
+\[openKolibri\] creates a [sixteen segment display](https://github.com/openKolibri/klais-16) made
+of stacked PCBs.
+
+[![sixteen segment display](img/2020-11-02_klais-16.gif)](https://github.com/openKolibri/klais-16)
+
+The sixteen segment display is a 100mm x 67mm display made from four stacked PCBs, with the top
+PCB being used as a diffusor.
+There are 128 0603 SMT LEDs that are driven from a TM1640 driver.
+
+See [openKolibri's website](https://openkolibri.com/seg/16/) for purchasing options.
+
+([permalink](https://web.archive.org/web/20201102201514/https://github.com/openKolibri/klais-16))
+
+###### submitted by \[abetusk\]
+
+---
+
 Art Deco Earrings
 ----
 
@@ -231,7 +271,6 @@ to create tranquility.
 ###### submitted by \[abetusk\]
 
 ---
-
 
 
 
