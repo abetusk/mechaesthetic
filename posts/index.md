@@ -1,4 +1,20 @@
 
+Art Deco Earrings
+----
+
+###### 2020-11-02
+
+\[sawaiz\] creates [art deco earrings](https://github.com/Sawaiz/artDecoEarrings) that are motion sensitive.
+
+[![art deco earring](img/2020-11-02_art-deco-earring.jpg)](https://github.com/Sawaiz/artDecoEarrings)
+
+
+([permalink](https://web.archive.org/web/20201102195244/https://github.com/Sawaiz/artDecoEarrings))
+
+###### submitted by \[abetusk\]
+
+---
+
 
 Cyborg Ring
 ----
@@ -7,7 +23,7 @@ Cyborg Ring
 
 \[zakqwy\] creates a [cyborg ring](https://github.com/zakqwy/cyborg_ring).
 
-[![image](img/2020-11-02_cyborg-ring.jpg)](https://github.com/zakqwy/cyborg_ring)
+[![cyborg ring](img/2020-11-02_cyborg-ring.jpg)](https://github.com/zakqwy/cyborg_ring)
 
 
 ([permalink](https://web.archive.org/web/20201102192736/https://github.com/zakqwy/cyborg_ring))
@@ -215,6 +231,7 @@ to create tranquility.
 ###### submitted by \[abetusk\]
 
 ---
+
 
 
 
