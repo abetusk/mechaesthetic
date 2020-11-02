@@ -1,4 +1,22 @@
 
+
+Cyborg Ring
+----
+
+###### 2020-11-02
+
+\[zakqwy\] creates a [cyborg ring](https://github.com/zakqwy/cyborg_ring).
+
+[![image](img/2020-11-02_cyborg-ring.jpg)](https://github.com/zakqwy/cyborg_ring)
+
+
+([permalink](https://web.archive.org/web/20201102192736/https://github.com/zakqwy/cyborg_ring))
+
+###### submitted by \[abetusk\]
+
+---
+
+
 LED Face Mask
 ----
 
@@ -197,7 +215,6 @@ to create tranquility.
 ###### submitted by \[abetusk\]
 
 ---
-
 
 
 
