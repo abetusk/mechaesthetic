@@ -1,4 +1,44 @@
 
+3D Printed Light Marquee
+----
+
+###### 2020-11-10
+
+\[Duke Doks\] creates a [3D printed light marquee](https://youtu.be/3Mkf67_ZnEM).
+
+[![3d light marquee](img/2020-11-10_light-marquee.jpg)](https://youtu.be/3Mkf67_ZnEM)
+
+The fonts are extruded and the letters re-positioned to have overlap.
+Each of the digits is then glued to the other, with access for the LED strip.
+
+The LED strip is glued to the side and a 3D printed inset diffusor is positioned on
+top.
+Each digit has a small platform to make sure the inset diffusor is positioned correctly.
+
+([permalink](https://web.archive.org/web/20201105093544if_/https://www.youtube.com/watch?v=3Mkf67_ZnEM&feature=youtu.be))
+
+###### submitted by \[abetusk\]
+
+---
+
+
+Beating Heart
+----
+
+###### 2020-11-10
+
+\[\_caseyhunt\_\] creates an [Arduino powered "beating heart"](https://www.instructables.com/Realistic-Beating-Heart-With-Arduino/) from a Smooth-On silicon mold of a heart and a small 9g servo motor:
+
+[![beating heart](img/2020-11-10_beating-heart.gif)](https://www.instructables.com/Realistic-Beating-Heart-With-Arduino/)
+
+
+([permalink](https://web.archive.org/web/20201110232014/https://www.instructables.com/Realistic-Beating-Heart-With-Arduino/))
+
+###### submitted by \[abetusk\]
+
+---
+
+
 
 Infinity Mirror RGB LED Mask
 ----
