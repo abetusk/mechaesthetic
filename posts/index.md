@@ -1,4 +1,21 @@
 
+Flexball
+----
+
+###### 2020-11-19
+
+[Flexball](https://www.instructables.com/FLEXBALL-a-Hundred-Pixel-Flexible-PCB-Ball-With-Wi/)
+
+[![flexball](img/2020-11-19_flexball.jpg)](https://www.instructables.com/FLEXBALL-a-Hundred-Pixel-Flexible-PCB-Ball-With-Wi/)
+
+
+([permalink](https://web.archive.org/web/20201120032850/https://www.instructables.com/FLEXBALL-a-Hundred-Pixel-Flexible-PCB-Ball-With-Wi/))
+
+###### submitted by \[abetusk\]
+
+---
+
+
 Smarch Glasses
 ----
 
