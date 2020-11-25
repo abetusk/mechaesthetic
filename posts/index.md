@@ -1,3 +1,22 @@
+PCB Cyberpunk Construction Set
+----
+
+###### 2020-11-24
+
+\[Geeek Club\] has a Kickstarter for a [cyberpunk PCB construction set](https://www.kickstarter.com/projects/geeekclub/geeek-club-cyber-punk-printer-circuit-board-construction-set)
+that uses 2d PCB panels soldered together to form artistic cyberpunk themed models.
+
+The models themselves aren't moveable but the circuit boards look to have some functional LEDs.
+
+[![pcb cyberpunk construction](img/2020-11-24-pcb-cyberpunk.jpg)](https://www.kickstarter.com/projects/geeekclub/geeek-club-cyber-punk-printer-circuit-board-construction-set)
+
+
+([permalink](https://web.archive.org/web/20201117183451/https://www.kickstarter.com/projects/geeekclub/geeek-club-cyber-punk-printer-circuit-board-construction-set))
+
+###### submitted by \[abetusk\]
+
+---
+
 
 Analog Terminal Bell
 ----
@@ -363,6 +382,7 @@ to create tranquility.
 ###### submitted by \[abetusk\]
 
 ---
+
 
 
 
