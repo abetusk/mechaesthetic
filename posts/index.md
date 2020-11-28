@@ -1,3 +1,21 @@
+Safe Social Distance Habit Trainer
+----
+
+###### 2020-11-27
+
+
+\[IoT Hub\] offers a very cute ["safe social distance habit trainer" on their Tindie store](https://www.tindie.com/products/iothub/safe-social-distance-habit-trainer/).
+
+
+[![Safe Social Distance Habit Trainer](img/2020-11-27-safe-social-distance.jpg)](https://www.tindie.com/products/iothub/safe-social-distance-habit-trainer/)
+
+
+([permalink](https://web.archive.org/web/20201117201153/https://www.tindie.com/products/iothub/safe-social-distance-habit-trainer/))
+
+###### submitted by \[abetusk\]
+
+---
+
 PCB Cyberpunk Construction Set
 ----
 
@@ -382,6 +400,7 @@ to create tranquility.
 ###### submitted by \[abetusk\]
 
 ---
+
 
 
 
