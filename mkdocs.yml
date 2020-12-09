@@ -5,6 +5,6 @@ pages:
 docs_dir: 'posts'
 theme_dir: 'theme'
 extra:
-  base : ""
+  base : "/"
 
 

@@ -1,4 +1,37 @@
 
+Liquid Bottle Filling Machine
+----
+
+###### 2020-12-09
+
+\[Easy HomeMade Projects\] creates an [automated liquid bottle filling machine](https://youtu.be/2Hz9KbxDWls).
+
+[![bottle filling machine](img/2020-12-09_filling-machine.gif)](https://youtu.be/2Hz9KbxDWls)
+
+
+([permalink](https://web.archive.org/web/20201209091138if_/https://www.youtube.com/watch?v=2Hz9KbxDWls&feature=youtu.be))
+
+###### submitted by \[abetusk\]
+
+---
+
+Rainbow Birthday Card
+----
+
+###### 2020-12-09
+
+\[Charlyn\] makes a [laser cut RGB LED backlit birthday card](https://charlyn.codes/mini-make-light-up-birthday-card/).
+
+[![rainbow birthday card](img/2020-12-09_rainbow-card.gif)](https://charlyn.codes/mini-make-light-up-birthday-card/)
+
+
+([permalink](https://web.archive.org/web/20201209084811/https://charlyn.codes/mini-make-light-up-birthday-card/))
+
+###### submitted by \[abetusk\]
+
+---
+
+
 Weight Powered Automata
 ----
 
@@ -419,6 +452,7 @@ to create tranquility.
 ###### submitted by \[abetusk\]
 
 ---
+
 
 
 
