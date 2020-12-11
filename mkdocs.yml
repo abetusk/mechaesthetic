@@ -5,7 +5,7 @@ pages:
 docs_dir: 'posts'
 theme_dir: 'theme'
 extra:
-  base : "/"
+  base : ""
   minitrack: "https://mechaelephant.com/minitrack/vampirepuff.svg"
 
 
