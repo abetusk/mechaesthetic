@@ -1,412 +1,572 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "Death Sequencer\n\n\n2020-12-19\n\n\n[Joris Wegner] uses \nthe dead bodies of flies to create a step sequencer\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nCustom Porsche Dashboard Gauge\n\n\n2020-12-19\n\n\n[Evancli] creates a replacement \nquad dashboard gauge for their Porche 914\n .\n\n\n\n\nSource available\n.\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nE-Ikn Smartwatch\n\n\n2020-12-11\n\n\n[SQFMI] creates an \ne-ink smartwatch\n\n\n\n\nSource available for both the \nsoftware\n and \nhardware\n.\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nLiquid Bottle Filling Machine\n\n\n2020-12-09\n\n\n[Easy HomeMade Projects] creates an \nautomated liquid bottle filling machine\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nRainbow Birthday Card\n\n\n2020-12-09\n\n\n[Charlyn] makes a \nlaser cut RGB LED backlit birthday card\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nWeight Powered Automata\n\n\n2020-12-01\n\n\n[WolfCatWorkshop] creates a \nweight powered automata\n.\nThe speed is limited by the air friction of the spinning 'fly-fan' with the assembly a combination of\nlaser cut elements, chains and weights.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSafe Social Distance Habit Trainer\n\n\n2020-11-27\n\n\n[IoT Hub] offers a very cute \n\"safe social distance habit trainer\" on their Tindie store\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nPCB Cyberpunk Construction Set\n\n\n2020-11-24\n\n\n[Geeek Club] has a Kickstarter for a \ncyberpunk PCB construction set\n\nthat uses 2d PCB panels soldered together to form artistic cyberpunk themed models.\n\n\nThe models themselves aren't moveable but the circuit boards look to have some functional LEDs.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nAnalog Terminal Bell\n\n\n2020-11-24\n\n\n[Aaron Patterson] creates \na USB controlled terminal bell\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nFlexball\n\n\n2020-11-19\n\n\nFlexball\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSmarch Glasses\n\n\n2020-11-13\n\n\n[samsonmarch] creates a \npair of custom smart glasses to help with GPS navigation\n.\n\n\n\n\n(\ngithub\n)\n\n\n(\npermalink\n \nsrc\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\n3D Printed Light Marquee\n\n\n2020-11-10\n\n\n[Duke Doks] creates a \n3D printed light marquee\n.\n\n\n\n\nThe fonts are extruded and the letters re-positioned to have overlap.\nEach of the digits is then glued to the other, with access for the LED strip.\n\n\nThe LED strip is glued to the side and a 3D printed inset diffusor is positioned on\ntop.\nEach digit has a small platform to make sure the inset diffusor is positioned correctly.\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nBeating Heart\n\n\n2020-11-10\n\n\n[_caseyhunt_] creates an \nArduino powered \"beating heart\"\n from a Smooth-On silicon mold of a heart and a small 9g servo motor:\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nInfinity Mirror RGB LED Mask\n\n\n2020-11-02\n\n\n[Norman Wink] uses infinity mirrors, RGB LEDs and 3D printing to create a \nHalloween mask\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nPCB 16 Segment Display\n\n\n2020-11-02\n\n\n[openKolibri] creates a \nsixteen segment display\n made\nof stacked PCBs.\n\n\n\n\nThe sixteen segment display is a 100mm x 67mm display made from four stacked PCBs, with the top\nPCB being used as a diffusor.\nThere are 128 0603 SMT LEDs that are driven from a TM1640 driver.\n\n\nSee \nopenKolibri's website\n for purchasing options.\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nArt Deco Earrings\n\n\n2020-11-02\n\n\n[sawaiz] creates \nart deco earrings\n that are motion sensitive.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nCyborg Ring\n\n\n2020-11-02\n\n\n[zakqwy] creates a \ncyborg ring\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nLED Face Mask\n\n\n2020-10-30\n\n\n[Chelsea Klukas] creates a full face mask of RGB LEDs (for ~$160)\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSplit Flap\n\n\n2020-10-28\n\n\nA DIY and free/libre version of a \nsplit flap display\n\n\n\n\n(\npermalink\n \nsrc\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nMini Word Clock\n\n\n2020-10-26\n\n\nA \nmini word clock\n that could potentially be used as a wrist watch.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nTiny PCB Violin\n\n\n2020-10-25\n\n\n[Alexandra Covor] creates a \ntiny violin\n that plays songs from an onboard\npiezo-electic buzzer.\n\n\n\n\nMIT licenced under \nGitHub\n.\n\n\n(\npermalink\n \nsrc\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nPCB Stat Tracker\n\n\n2020-10-24\n\n\n[25albert] has created a \ntable top role playing game (TTRPG) stat tracker\n.\n\n\n\n\nThe board uses the PCB as a diffusor for the underlying LEDs.\nIn addition, the top layer PCB overhang's flex is used\nto press the underlying tactile switch, creating a nicer user interface.\n\n\n[25alpbert] gives credit to [\nNick Poole\n] for the\nclever PCB tips and tricks.\n\n\n(\npermalink\n \nvid\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\n\"Can The Subaltern Speak\" Batting Eyelash Mask\n\n\n2020-10-24\n\n\n[Behnaz Farahi] gives \ndetails on the making of the \"Can The Subaltern Speak?\" mask\n.\n\n\n\n\n[Behnaz Farahi] writes:\n\n\n\n\nThis project is inspired by ... masks worn by the Bandari women from southern Iran. ... these masks were developed during Portuguese colonial rule, as a way of protecting ... from the gaze of slave masters looking for pretty women. ... from a contemporary perspective, they can be seen as ... protecting women from patriarchal colonial oppression.\n\n\nHere the \u2018wink\u2019 of the sexual predator is subverted into a language to protect women from the advances of a predator. ...\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSensor LED Ring\n\n\n2020-10-24\n\n\n[Joey Castillo] is working on an \nRGB LED sensor ring\n.\n\n\n\n\n[Joey Castillo] writes:\n\n\n\n\n... it's four Dotstar LED's and an LIS2DH accelerometer. ...\n\n\n\n\nStill some issues to work through though:\n\n\n\n\nthe big fail so far: for some reason the SPI Flash chip isn't working, so I don't have room for both the LIS3DH and Dotstar libraries ... \nrunning a rainbow demo, instead of reacting to motion like I'd hoped.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nGhosts and Bats Wire Pendent LEDs\n\n\n2020-10-24\n\n\n[\n@jipraus\n] creates wire ghost and bat LED pendents for halloween:\n\n\n\n\n[@jiipraus] also has \na 10-minute youtube video\n on the build.\n\n\n(\npermalink\n \nvideo\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nCandy Launcher\n\n\n2020-10-24\n\n\n[\n@GeekMomProjects\n] uses laser cut parts and a patchwork of\nmotors, gears and drums to launch mini candies.\n\n\n\n\n\n\n[@GeekMomProjects] writes:\n\n\n\n\n... 3D printed cylinders with grooves for the orange rubber O-rings which I purchased. It's the kind of mechanism my son's VEX robotics team usually uses when their robot has to launch projectiles, so I figured it would work for this application.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSinging Bowls and Servos\n\n\n2020-10-24\n\n\n[\nHelen Leigh\n] uses singing bowls, servos, LEGOs and electronics\nto create tranquility.\n\n\n\n\n[Helen Leigh] writes:\n\n\n\n\nI'm using a #microbit, a prototype of an extremely cute #LEGO compatible microbit breakout board from @BrownDogGadgets (which u can get on Kickstarter for approximately 15 more hours) and a pair of Geek servos.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]", 
+            "location": "/index.html", 
+            "text": "Augmented Ouija\n\n\n[Joris Wegner] creates an \nouija board that moves without human interaction\n\n\n\n\n(\npermalink\n)\n\n\nDeath Sequencer\n\n\n2020-12-19\n\n\n[Joris Wegner] uses \nthe dead bodies of flies to create a step sequencer\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nCustom Porsche Dashboard Gauge\n\n\n2020-12-19\n\n\n[Evancli] creates a replacement \nquad dashboard gauge for their Porche 914\n .\n\n\n\n\nSource available\n.\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nE-Ink Smartwatch\n\n\n2020-12-11\n\n\n[SQFMI] creates an \ne-ink smartwatch\n\n\n\n\nSource available for both the \nsoftware\n and \nhardware\n.\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nLiquid Bottle Filling Machine\n\n\n2020-12-09\n\n\n[Easy HomeMade Projects] creates an \nautomated liquid bottle filling machine\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nRainbow Birthday Card\n\n\n2020-12-09\n\n\n[Charlyn] makes a \nlaser cut RGB LED backlit birthday card\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nWeight Powered Automata\n\n\n2020-12-01\n\n\n[WolfCatWorkshop] creates a \nweight powered automata\n.\nThe speed is limited by the air friction of the spinning 'fly-fan' with the assembly a combination of\nlaser cut elements, chains and weights.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSafe Social Distance Habit Trainer\n\n\n2020-11-27\n\n\n[IoT Hub] offers a very cute \n\"safe social distance habit trainer\" on their Tindie store\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nPCB Cyberpunk Construction Set\n\n\n2020-11-24\n\n\n[Geeek Club] has a Kickstarter for a \ncyberpunk PCB construction set\n\nthat uses 2d PCB panels soldered together to form artistic cyberpunk themed models.\n\n\nThe models themselves aren't moveable but the circuit boards look to have some functional LEDs.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nAnalog Terminal Bell\n\n\n2020-11-24\n\n\n[Aaron Patterson] creates \na USB controlled terminal bell\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nFlexball\n\n\n2020-11-19\n\n\nFlexball\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSmarch Glasses\n\n\n2020-11-13\n\n\n[samsonmarch] creates a \npair of custom smart glasses to help with GPS navigation\n.\n\n\n\n\n(\ngithub\n)\n\n\n(\npermalink\n \nsrc\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\n3D Printed Light Marquee\n\n\n2020-11-10\n\n\n[Duke Doks] creates a \n3D printed light marquee\n.\n\n\n\n\nThe fonts are extruded and the letters re-positioned to have overlap.\nEach of the digits is then glued to the other, with access for the LED strip.\n\n\nThe LED strip is glued to the side and a 3D printed inset diffusor is positioned on\ntop.\nEach digit has a small platform to make sure the inset diffusor is positioned correctly.\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nBeating Heart\n\n\n2020-11-10\n\n\n[_caseyhunt_] creates an \nArduino powered \"beating heart\"\n from a Smooth-On silicon mold of a heart and a small 9g servo motor:\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nInfinity Mirror RGB LED Mask\n\n\n2020-11-02\n\n\n[Norman Wink] uses infinity mirrors, RGB LEDs and 3D printing to create a \nHalloween mask\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nPCB 16 Segment Display\n\n\n2020-11-02\n\n\n[openKolibri] creates a \nsixteen segment display\n made\nof stacked PCBs.\n\n\n\n\nThe sixteen segment display is a 100mm x 67mm display made from four stacked PCBs, with the top\nPCB being used as a diffusor.\nThere are 128 0603 SMT LEDs that are driven from a TM1640 driver.\n\n\nSee \nopenKolibri's website\n for purchasing options.\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nArt Deco Earrings\n\n\n2020-11-02\n\n\n[sawaiz] creates \nart deco earrings\n that are motion sensitive.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nCyborg Ring\n\n\n2020-11-02\n\n\n[zakqwy] creates a \ncyborg ring\n.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nLED Face Mask\n\n\n2020-10-30\n\n\n[Chelsea Klukas] creates a full face mask of RGB LEDs (for ~$160)\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSplit Flap\n\n\n2020-10-28\n\n\nA DIY and free/libre version of a \nsplit flap display\n\n\n\n\n(\npermalink\n \nsrc\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nMini Word Clock\n\n\n2020-10-26\n\n\nA \nmini word clock\n that could potentially be used as a wrist watch.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nTiny PCB Violin\n\n\n2020-10-25\n\n\n[Alexandra Covor] creates a \ntiny violin\n that plays songs from an onboard\npiezo-electic buzzer.\n\n\n\n\nMIT licenced under \nGitHub\n.\n\n\n(\npermalink\n \nsrc\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nPCB Stat Tracker\n\n\n2020-10-24\n\n\n[25albert] has created a \ntable top role playing game (TTRPG) stat tracker\n.\n\n\n\n\nThe board uses the PCB as a diffusor for the underlying LEDs.\nIn addition, the top layer PCB overhang's flex is used\nto press the underlying tactile switch, creating a nicer user interface.\n\n\n[25alpbert] gives credit to [\nNick Poole\n] for the\nclever PCB tips and tricks.\n\n\n(\npermalink\n \nvid\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\n\"Can The Subaltern Speak\" Batting Eyelash Mask\n\n\n2020-10-24\n\n\n[Behnaz Farahi] gives \ndetails on the making of the \"Can The Subaltern Speak?\" mask\n.\n\n\n\n\n[Behnaz Farahi] writes:\n\n\n\n\nThis project is inspired by ... masks worn by the Bandari women from southern Iran. ... these masks were developed during Portuguese colonial rule, as a way of protecting ... from the gaze of slave masters looking for pretty women. ... from a contemporary perspective, they can be seen as ... protecting women from patriarchal colonial oppression.\n\n\nHere the \u2018wink\u2019 of the sexual predator is subverted into a language to protect women from the advances of a predator. ...\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSensor LED Ring\n\n\n2020-10-24\n\n\n[Joey Castillo] is working on an \nRGB LED sensor ring\n.\n\n\n\n\n[Joey Castillo] writes:\n\n\n\n\n... it's four Dotstar LED's and an LIS2DH accelerometer. ...\n\n\n\n\nStill some issues to work through though:\n\n\n\n\nthe big fail so far: for some reason the SPI Flash chip isn't working, so I don't have room for both the LIS3DH and Dotstar libraries ... \nrunning a rainbow demo, instead of reacting to motion like I'd hoped.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nGhosts and Bats Wire Pendent LEDs\n\n\n2020-10-24\n\n\n[\n@jipraus\n] creates wire ghost and bat LED pendents for halloween:\n\n\n\n\n[@jiipraus] also has \na 10-minute youtube video\n on the build.\n\n\n(\npermalink\n \nvideo\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nCandy Launcher\n\n\n2020-10-24\n\n\n[\n@GeekMomProjects\n] uses laser cut parts and a patchwork of\nmotors, gears and drums to launch mini candies.\n\n\n\n\n\n\n[@GeekMomProjects] writes:\n\n\n\n\n... 3D printed cylinders with grooves for the orange rubber O-rings which I purchased. It's the kind of mechanism my son's VEX robotics team usually uses when their robot has to launch projectiles, so I figured it would work for this application.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSinging Bowls and Servos\n\n\n2020-10-24\n\n\n[\nHelen Leigh\n] uses singing bowls, servos, LEGOs and electronics\nto create tranquility.\n\n\n\n\n[Helen Leigh] writes:\n\n\n\n\nI'm using a #microbit, a prototype of an extremely cute #LEGO compatible microbit breakout board from @BrownDogGadgets (which u can get on Kickstarter for approximately 15 more hours) and a pair of Geek servos.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\n previous", 
             "title": "Home"
         }, 
         {
-            "location": "/#death-sequencer", 
+            "location": "/index.html#augmented-ouija", 
+            "text": "[Joris Wegner] creates an  ouija board that moves without human interaction   ( permalink )", 
+            "title": "Augmented Ouija"
+        }, 
+        {
+            "location": "/index.html#death-sequencer", 
             "text": "", 
             "title": "Death Sequencer"
         }, 
         {
-            "location": "/#2020-12-19", 
+            "location": "/index.html#2020-12-19", 
             "text": "[Joris Wegner] uses  the dead bodies of flies to create a step sequencer .   ( permalink )", 
             "title": "2020-12-19"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93", 
+            "location": "/index.html#submitted-by-91abetusk93", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#custom-porsche-dashboard-gauge", 
+            "location": "/index.html#custom-porsche-dashboard-gauge", 
             "text": "", 
             "title": "Custom Porsche Dashboard Gauge"
         }, 
         {
-            "location": "/#2020-12-19_1", 
+            "location": "/index.html#2020-12-19_1", 
             "text": "[Evancli] creates a replacement  quad dashboard gauge for their Porche 914  .   Source available .  ( permalink )", 
             "title": "2020-12-19"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_1", 
+            "location": "/index.html#submitted-by-91abetusk93_1", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#e-ikn-smartwatch", 
+            "location": "/index.html#e-ink-smartwatch", 
             "text": "", 
-            "title": "E-Ikn Smartwatch"
+            "title": "E-Ink Smartwatch"
         }, 
         {
-            "location": "/#2020-12-11", 
+            "location": "/index.html#2020-12-11", 
             "text": "[SQFMI] creates an  e-ink smartwatch   Source available for both the  software  and  hardware .  ( permalink )", 
             "title": "2020-12-11"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_2", 
+            "location": "/index.html#submitted-by-91abetusk93_2", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#liquid-bottle-filling-machine", 
+            "location": "/index.html#liquid-bottle-filling-machine", 
             "text": "", 
             "title": "Liquid Bottle Filling Machine"
         }, 
         {
-            "location": "/#2020-12-09", 
+            "location": "/index.html#2020-12-09", 
             "text": "[Easy HomeMade Projects] creates an  automated liquid bottle filling machine .   ( permalink )", 
             "title": "2020-12-09"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_3", 
+            "location": "/index.html#submitted-by-91abetusk93_3", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#rainbow-birthday-card", 
+            "location": "/index.html#rainbow-birthday-card", 
             "text": "", 
             "title": "Rainbow Birthday Card"
         }, 
         {
-            "location": "/#2020-12-09_1", 
+            "location": "/index.html#2020-12-09_1", 
             "text": "[Charlyn] makes a  laser cut RGB LED backlit birthday card .   ( permalink )", 
             "title": "2020-12-09"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_4", 
+            "location": "/index.html#submitted-by-91abetusk93_4", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#weight-powered-automata", 
+            "location": "/index.html#weight-powered-automata", 
             "text": "", 
             "title": "Weight Powered Automata"
         }, 
         {
-            "location": "/#2020-12-01", 
+            "location": "/index.html#2020-12-01", 
             "text": "[WolfCatWorkshop] creates a  weight powered automata .\nThe speed is limited by the air friction of the spinning 'fly-fan' with the assembly a combination of\nlaser cut elements, chains and weights.   ( permalink )", 
             "title": "2020-12-01"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_5", 
+            "location": "/index.html#submitted-by-91abetusk93_5", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#safe-social-distance-habit-trainer", 
+            "location": "/index.html#safe-social-distance-habit-trainer", 
             "text": "", 
             "title": "Safe Social Distance Habit Trainer"
         }, 
         {
-            "location": "/#2020-11-27", 
+            "location": "/index.html#2020-11-27", 
             "text": "[IoT Hub] offers a very cute  \"safe social distance habit trainer\" on their Tindie store .   ( permalink )", 
             "title": "2020-11-27"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_6", 
+            "location": "/index.html#submitted-by-91abetusk93_6", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#pcb-cyberpunk-construction-set", 
+            "location": "/index.html#pcb-cyberpunk-construction-set", 
             "text": "", 
             "title": "PCB Cyberpunk Construction Set"
         }, 
         {
-            "location": "/#2020-11-24", 
+            "location": "/index.html#2020-11-24", 
             "text": "[Geeek Club] has a Kickstarter for a  cyberpunk PCB construction set \nthat uses 2d PCB panels soldered together to form artistic cyberpunk themed models.  The models themselves aren't moveable but the circuit boards look to have some functional LEDs.   ( permalink )", 
             "title": "2020-11-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_7", 
+            "location": "/index.html#submitted-by-91abetusk93_7", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#analog-terminal-bell", 
+            "location": "/index.html#analog-terminal-bell", 
             "text": "", 
             "title": "Analog Terminal Bell"
         }, 
         {
-            "location": "/#2020-11-24_1", 
+            "location": "/index.html#2020-11-24_1", 
             "text": "[Aaron Patterson] creates  a USB controlled terminal bell .   ( permalink )", 
             "title": "2020-11-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_8", 
+            "location": "/index.html#submitted-by-91abetusk93_8", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#flexball", 
+            "location": "/index.html#flexball", 
             "text": "", 
             "title": "Flexball"
         }, 
         {
-            "location": "/#2020-11-19", 
+            "location": "/index.html#2020-11-19", 
             "text": "Flexball   ( permalink )", 
             "title": "2020-11-19"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_9", 
+            "location": "/index.html#submitted-by-91abetusk93_9", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#smarch-glasses", 
+            "location": "/index.html#smarch-glasses", 
             "text": "", 
             "title": "Smarch Glasses"
         }, 
         {
-            "location": "/#2020-11-13", 
+            "location": "/index.html#2020-11-13", 
             "text": "[samsonmarch] creates a  pair of custom smart glasses to help with GPS navigation .   ( github )  ( permalink   src )", 
             "title": "2020-11-13"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_10", 
+            "location": "/index.html#submitted-by-91abetusk93_10", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#3d-printed-light-marquee", 
+            "location": "/index.html#3d-printed-light-marquee", 
             "text": "", 
             "title": "3D Printed Light Marquee"
         }, 
         {
-            "location": "/#2020-11-10", 
+            "location": "/index.html#2020-11-10", 
             "text": "[Duke Doks] creates a  3D printed light marquee .   The fonts are extruded and the letters re-positioned to have overlap.\nEach of the digits is then glued to the other, with access for the LED strip.  The LED strip is glued to the side and a 3D printed inset diffusor is positioned on\ntop.\nEach digit has a small platform to make sure the inset diffusor is positioned correctly.  ( permalink )", 
             "title": "2020-11-10"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_11", 
+            "location": "/index.html#submitted-by-91abetusk93_11", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#beating-heart", 
+            "location": "/index.html#beating-heart", 
             "text": "", 
             "title": "Beating Heart"
         }, 
         {
-            "location": "/#2020-11-10_1", 
+            "location": "/index.html#2020-11-10_1", 
             "text": "[_caseyhunt_] creates an  Arduino powered \"beating heart\"  from a Smooth-On silicon mold of a heart and a small 9g servo motor:   ( permalink )", 
             "title": "2020-11-10"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_12", 
+            "location": "/index.html#submitted-by-91abetusk93_12", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#infinity-mirror-rgb-led-mask", 
+            "location": "/index.html#infinity-mirror-rgb-led-mask", 
             "text": "", 
             "title": "Infinity Mirror RGB LED Mask"
         }, 
         {
-            "location": "/#2020-11-02", 
+            "location": "/index.html#2020-11-02", 
             "text": "[Norman Wink] uses infinity mirrors, RGB LEDs and 3D printing to create a  Halloween mask .   ( permalink )", 
             "title": "2020-11-02"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_13", 
+            "location": "/index.html#submitted-by-91abetusk93_13", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#pcb-16-segment-display", 
+            "location": "/index.html#pcb-16-segment-display", 
             "text": "", 
             "title": "PCB 16 Segment Display"
         }, 
         {
-            "location": "/#2020-11-02_1", 
+            "location": "/index.html#2020-11-02_1", 
             "text": "[openKolibri] creates a  sixteen segment display  made\nof stacked PCBs.   The sixteen segment display is a 100mm x 67mm display made from four stacked PCBs, with the top\nPCB being used as a diffusor.\nThere are 128 0603 SMT LEDs that are driven from a TM1640 driver.  See  openKolibri's website  for purchasing options.  ( permalink )", 
             "title": "2020-11-02"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_14", 
+            "location": "/index.html#submitted-by-91abetusk93_14", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#art-deco-earrings", 
+            "location": "/index.html#art-deco-earrings", 
             "text": "", 
             "title": "Art Deco Earrings"
         }, 
         {
-            "location": "/#2020-11-02_2", 
+            "location": "/index.html#2020-11-02_2", 
             "text": "[sawaiz] creates  art deco earrings  that are motion sensitive.   ( permalink )", 
             "title": "2020-11-02"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_15", 
+            "location": "/index.html#submitted-by-91abetusk93_15", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#cyborg-ring", 
+            "location": "/index.html#cyborg-ring", 
             "text": "", 
             "title": "Cyborg Ring"
         }, 
         {
-            "location": "/#2020-11-02_3", 
+            "location": "/index.html#2020-11-02_3", 
             "text": "[zakqwy] creates a  cyborg ring .   ( permalink )", 
             "title": "2020-11-02"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_16", 
+            "location": "/index.html#submitted-by-91abetusk93_16", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#led-face-mask", 
+            "location": "/index.html#led-face-mask", 
             "text": "", 
             "title": "LED Face Mask"
         }, 
         {
-            "location": "/#2020-10-30", 
+            "location": "/index.html#2020-10-30", 
             "text": "[Chelsea Klukas] creates a full face mask of RGB LEDs (for ~$160)   ( permalink )", 
             "title": "2020-10-30"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_17", 
+            "location": "/index.html#submitted-by-91abetusk93_17", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#split-flap", 
+            "location": "/index.html#split-flap", 
             "text": "", 
             "title": "Split Flap"
         }, 
         {
-            "location": "/#2020-10-28", 
+            "location": "/index.html#2020-10-28", 
             "text": "A DIY and free/libre version of a  split flap display   ( permalink   src )", 
             "title": "2020-10-28"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_18", 
+            "location": "/index.html#submitted-by-91abetusk93_18", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#mini-word-clock", 
+            "location": "/index.html#mini-word-clock", 
             "text": "", 
             "title": "Mini Word Clock"
         }, 
         {
-            "location": "/#2020-10-26", 
+            "location": "/index.html#2020-10-26", 
             "text": "A  mini word clock  that could potentially be used as a wrist watch.   ( permalink )", 
             "title": "2020-10-26"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_19", 
+            "location": "/index.html#submitted-by-91abetusk93_19", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#tiny-pcb-violin", 
+            "location": "/index.html#tiny-pcb-violin", 
             "text": "", 
             "title": "Tiny PCB Violin"
         }, 
         {
-            "location": "/#2020-10-25", 
+            "location": "/index.html#2020-10-25", 
             "text": "[Alexandra Covor] creates a  tiny violin  that plays songs from an onboard\npiezo-electic buzzer.   MIT licenced under  GitHub .  ( permalink   src )", 
             "title": "2020-10-25"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_20", 
+            "location": "/index.html#submitted-by-91abetusk93_20", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#pcb-stat-tracker", 
+            "location": "/index.html#pcb-stat-tracker", 
             "text": "", 
             "title": "PCB Stat Tracker"
         }, 
         {
-            "location": "/#2020-10-24", 
+            "location": "/index.html#2020-10-24", 
             "text": "[25albert] has created a  table top role playing game (TTRPG) stat tracker .   The board uses the PCB as a diffusor for the underlying LEDs.\nIn addition, the top layer PCB overhang's flex is used\nto press the underlying tactile switch, creating a nicer user interface.  [25alpbert] gives credit to [ Nick Poole ] for the\nclever PCB tips and tricks.  ( permalink   vid )", 
             "title": "2020-10-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_21", 
+            "location": "/index.html#submitted-by-91abetusk93_21", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#can-the-subaltern-speak-batting-eyelash-mask", 
+            "location": "/index.html#can-the-subaltern-speak-batting-eyelash-mask", 
             "text": "", 
             "title": "\"Can The Subaltern Speak\" Batting Eyelash Mask"
         }, 
         {
-            "location": "/#2020-10-24_1", 
+            "location": "/index.html#2020-10-24_1", 
             "text": "[Behnaz Farahi] gives  details on the making of the \"Can The Subaltern Speak?\" mask .   [Behnaz Farahi] writes:   This project is inspired by ... masks worn by the Bandari women from southern Iran. ... these masks were developed during Portuguese colonial rule, as a way of protecting ... from the gaze of slave masters looking for pretty women. ... from a contemporary perspective, they can be seen as ... protecting women from patriarchal colonial oppression.  Here the \u2018wink\u2019 of the sexual predator is subverted into a language to protect women from the advances of a predator. ...   ( permalink )", 
             "title": "2020-10-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_22", 
+            "location": "/index.html#submitted-by-91abetusk93_22", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#sensor-led-ring", 
+            "location": "/index.html#sensor-led-ring", 
             "text": "", 
             "title": "Sensor LED Ring"
         }, 
         {
-            "location": "/#2020-10-24_2", 
+            "location": "/index.html#2020-10-24_2", 
             "text": "[Joey Castillo] is working on an  RGB LED sensor ring .   [Joey Castillo] writes:   ... it's four Dotstar LED's and an LIS2DH accelerometer. ...   Still some issues to work through though:   the big fail so far: for some reason the SPI Flash chip isn't working, so I don't have room for both the LIS3DH and Dotstar libraries ... \nrunning a rainbow demo, instead of reacting to motion like I'd hoped.   ( permalink )", 
             "title": "2020-10-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_23", 
+            "location": "/index.html#submitted-by-91abetusk93_23", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#ghosts-and-bats-wire-pendent-leds", 
+            "location": "/index.html#ghosts-and-bats-wire-pendent-leds", 
             "text": "", 
             "title": "Ghosts and Bats Wire Pendent LEDs"
         }, 
         {
-            "location": "/#2020-10-24_3", 
+            "location": "/index.html#2020-10-24_3", 
             "text": "[ @jipraus ] creates wire ghost and bat LED pendents for halloween:   [@jiipraus] also has  a 10-minute youtube video  on the build.  ( permalink   video )", 
             "title": "2020-10-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_24", 
+            "location": "/index.html#submitted-by-91abetusk93_24", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#candy-launcher", 
+            "location": "/index.html#candy-launcher", 
             "text": "", 
             "title": "Candy Launcher"
         }, 
         {
-            "location": "/#2020-10-24_4", 
+            "location": "/index.html#2020-10-24_4", 
             "text": "[ @GeekMomProjects ] uses laser cut parts and a patchwork of\nmotors, gears and drums to launch mini candies.    [@GeekMomProjects] writes:   ... 3D printed cylinders with grooves for the orange rubber O-rings which I purchased. It's the kind of mechanism my son's VEX robotics team usually uses when their robot has to launch projectiles, so I figured it would work for this application.   ( permalink )", 
             "title": "2020-10-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_25", 
+            "location": "/index.html#submitted-by-91abetusk93_25", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }, 
         {
-            "location": "/#singing-bowls-and-servos", 
+            "location": "/index.html#singing-bowls-and-servos", 
             "text": "", 
             "title": "Singing Bowls and Servos"
         }, 
         {
-            "location": "/#2020-10-24_5", 
+            "location": "/index.html#2020-10-24_5", 
             "text": "[ Helen Leigh ] uses singing bowls, servos, LEGOs and electronics\nto create tranquility.   [Helen Leigh] writes:   I'm using a #microbit, a prototype of an extremely cute #LEGO compatible microbit breakout board from @BrownDogGadgets (which u can get on Kickstarter for approximately 15 more hours) and a pair of Geek servos.   ( permalink )", 
             "title": "2020-10-24"
         }, 
         {
-            "location": "/#submitted-by-91abetusk93_26", 
+            "location": "/index.html#submitted-by-91abetusk93_26", 
+            "text": "previous", 
+            "title": "submitted by [abetusk]"
+        }, 
+        {
+            "location": "/1/index.html", 
+            "text": "LED Face Mask\n\n\n2020-10-30\n\n\n[Chelsea Klukas] creates a full face mask of RGB LEDs (for ~$160)\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSplit Flap\n\n\n2020-10-28\n\n\nA DIY and free/libre version of a \nsplit flap display\n\n\n\n\n(\npermalink\n \nsrc\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nMini Word Clock\n\n\n2020-10-26\n\n\nA \nmini word clock\n that could potentially be used as a wrist watch.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nTiny PCB Violin\n\n\n2020-10-25\n\n\n[Alexandra Covor] creates a \ntiny violin\n that plays songs from an onboard\npiezo-electic buzzer.\n\n\n\n\nMIT licenced under \nGitHub\n.\n\n\n(\npermalink\n \nsrc\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nPCB Stat Tracker\n\n\n2020-10-24\n\n\n[25albert] has created a \ntable top role playing game (TTRPG) stat tracker\n.\n\n\n\n\nThe board uses the PCB as a diffusor for the underlying LEDs.\nIn addition, the top layer PCB overhang's flex is used\nto press the underlying tactile switch, creating a nicer user interface.\n\n\n[25alpbert] gives credit to [\nNick Poole\n] for the\nclever PCB tips and tricks.\n\n\n(\npermalink\n \nvid\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\n\"Can The Subaltern Speak\" Batting Eyelash Mask\n\n\n2020-10-24\n\n\n[Behnaz Farahi] gives \ndetails on the making of the \"Can The Subaltern Speak?\" mask\n.\n\n\n\n\n[Behnaz Farahi] writes:\n\n\n\n\nThis project is inspired by ... masks worn by the Bandari women from southern Iran. ... these masks were developed during Portuguese colonial rule, as a way of protecting ... from the gaze of slave masters looking for pretty women. ... from a contemporary perspective, they can be seen as ... protecting women from patriarchal colonial oppression.\n\n\nHere the \u2018wink\u2019 of the sexual predator is subverted into a language to protect women from the advances of a predator. ...\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSensor LED Ring\n\n\n2020-10-24\n\n\n[Joey Castillo] is working on an \nRGB LED sensor ring\n.\n\n\n\n\n[Joey Castillo] writes:\n\n\n\n\n... it's four Dotstar LED's and an LIS2DH accelerometer. ...\n\n\n\n\nStill some issues to work through though:\n\n\n\n\nthe big fail so far: for some reason the SPI Flash chip isn't working, so I don't have room for both the LIS3DH and Dotstar libraries ... \nrunning a rainbow demo, instead of reacting to motion like I'd hoped.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nGhosts and Bats Wire Pendent LEDs\n\n\n2020-10-24\n\n\n[\n@jipraus\n] creates wire ghost and bat LED pendents for halloween:\n\n\n\n\n[@jiipraus] also has \na 10-minute youtube video\n on the build.\n\n\n(\npermalink\n \nvideo\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nCandy Launcher\n\n\n2020-10-24\n\n\n[\n@GeekMomProjects\n] uses laser cut parts and a patchwork of\nmotors, gears and drums to launch mini candies.\n\n\n\n\n\n\n[@GeekMomProjects] writes:\n\n\n\n\n... 3D printed cylinders with grooves for the orange rubber O-rings which I purchased. It's the kind of mechanism my son's VEX robotics team usually uses when their robot has to launch projectiles, so I figured it would work for this application.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]\n\n\n\n\nSinging Bowls and Servos\n\n\n2020-10-24\n\n\n[\nHelen Leigh\n] uses singing bowls, servos, LEGOs and electronics\nto create tranquility.\n\n\n\n\n[Helen Leigh] writes:\n\n\n\n\nI'm using a #microbit, a prototype of an extremely cute #LEGO compatible microbit breakout board from @BrownDogGadgets (which u can get on Kickstarter for approximately 15 more hours) and a pair of Geek servos.\n\n\n\n\n(\npermalink\n)\n\n\nsubmitted by [abetusk]", 
+            "title": "ok"
+        }, 
+        {
+            "location": "/1/index.html#led-face-mask", 
+            "text": "", 
+            "title": "LED Face Mask"
+        }, 
+        {
+            "location": "/1/index.html#2020-10-30", 
+            "text": "[Chelsea Klukas] creates a full face mask of RGB LEDs (for ~$160)   ( permalink )", 
+            "title": "2020-10-30"
+        }, 
+        {
+            "location": "/1/index.html#submitted-by-91abetusk93", 
+            "text": "", 
+            "title": "submitted by [abetusk]"
+        }, 
+        {
+            "location": "/1/index.html#split-flap", 
+            "text": "", 
+            "title": "Split Flap"
+        }, 
+        {
+            "location": "/1/index.html#2020-10-28", 
+            "text": "A DIY and free/libre version of a  split flap display   ( permalink   src )", 
+            "title": "2020-10-28"
+        }, 
+        {
+            "location": "/1/index.html#submitted-by-91abetusk93_1", 
+            "text": "", 
+            "title": "submitted by [abetusk]"
+        }, 
+        {
+            "location": "/1/index.html#mini-word-clock", 
+            "text": "", 
+            "title": "Mini Word Clock"
+        }, 
+        {
+            "location": "/1/index.html#2020-10-26", 
+            "text": "A  mini word clock  that could potentially be used as a wrist watch.   ( permalink )", 
+            "title": "2020-10-26"
+        }, 
+        {
+            "location": "/1/index.html#submitted-by-91abetusk93_2", 
+            "text": "", 
+            "title": "submitted by [abetusk]"
+        }, 
+        {
+            "location": "/1/index.html#tiny-pcb-violin", 
+            "text": "", 
+            "title": "Tiny PCB Violin"
+        }, 
+        {
+            "location": "/1/index.html#2020-10-25", 
+            "text": "[Alexandra Covor] creates a  tiny violin  that plays songs from an onboard\npiezo-electic buzzer.   MIT licenced under  GitHub .  ( permalink   src )", 
+            "title": "2020-10-25"
+        }, 
+        {
+            "location": "/1/index.html#submitted-by-91abetusk93_3", 
+            "text": "", 
+            "title": "submitted by [abetusk]"
+        }, 
+        {
+            "location": "/1/index.html#pcb-stat-tracker", 
+            "text": "", 
+            "title": "PCB Stat Tracker"
+        }, 
+        {
+            "location": "/1/index.html#2020-10-24", 
+            "text": "[25albert] has created a  table top role playing game (TTRPG) stat tracker .   The board uses the PCB as a diffusor for the underlying LEDs.\nIn addition, the top layer PCB overhang's flex is used\nto press the underlying tactile switch, creating a nicer user interface.  [25alpbert] gives credit to [ Nick Poole ] for the\nclever PCB tips and tricks.  ( permalink   vid )", 
+            "title": "2020-10-24"
+        }, 
+        {
+            "location": "/1/index.html#submitted-by-91abetusk93_4", 
+            "text": "", 
+            "title": "submitted by [abetusk]"
+        }, 
+        {
+            "location": "/1/index.html#can-the-subaltern-speak-batting-eyelash-mask", 
+            "text": "", 
+            "title": "\"Can The Subaltern Speak\" Batting Eyelash Mask"
+        }, 
+        {
+            "location": "/1/index.html#2020-10-24_1", 
+            "text": "[Behnaz Farahi] gives  details on the making of the \"Can The Subaltern Speak?\" mask .   [Behnaz Farahi] writes:   This project is inspired by ... masks worn by the Bandari women from southern Iran. ... these masks were developed during Portuguese colonial rule, as a way of protecting ... from the gaze of slave masters looking for pretty women. ... from a contemporary perspective, they can be seen as ... protecting women from patriarchal colonial oppression.  Here the \u2018wink\u2019 of the sexual predator is subverted into a language to protect women from the advances of a predator. ...   ( permalink )", 
+            "title": "2020-10-24"
+        }, 
+        {
+            "location": "/1/index.html#submitted-by-91abetusk93_5", 
+            "text": "", 
+            "title": "submitted by [abetusk]"
+        }, 
+        {
+            "location": "/1/index.html#sensor-led-ring", 
+            "text": "", 
+            "title": "Sensor LED Ring"
+        }, 
+        {
+            "location": "/1/index.html#2020-10-24_2", 
+            "text": "[Joey Castillo] is working on an  RGB LED sensor ring .   [Joey Castillo] writes:   ... it's four Dotstar LED's and an LIS2DH accelerometer. ...   Still some issues to work through though:   the big fail so far: for some reason the SPI Flash chip isn't working, so I don't have room for both the LIS3DH and Dotstar libraries ... \nrunning a rainbow demo, instead of reacting to motion like I'd hoped.   ( permalink )", 
+            "title": "2020-10-24"
+        }, 
+        {
+            "location": "/1/index.html#submitted-by-91abetusk93_6", 
+            "text": "", 
+            "title": "submitted by [abetusk]"
+        }, 
+        {
+            "location": "/1/index.html#ghosts-and-bats-wire-pendent-leds", 
+            "text": "", 
+            "title": "Ghosts and Bats Wire Pendent LEDs"
+        }, 
+        {
+            "location": "/1/index.html#2020-10-24_3", 
+            "text": "[ @jipraus ] creates wire ghost and bat LED pendents for halloween:   [@jiipraus] also has  a 10-minute youtube video  on the build.  ( permalink   video )", 
+            "title": "2020-10-24"
+        }, 
+        {
+            "location": "/1/index.html#submitted-by-91abetusk93_7", 
+            "text": "", 
+            "title": "submitted by [abetusk]"
+        }, 
+        {
+            "location": "/1/index.html#candy-launcher", 
+            "text": "", 
+            "title": "Candy Launcher"
+        }, 
+        {
+            "location": "/1/index.html#2020-10-24_4", 
+            "text": "[ @GeekMomProjects ] uses laser cut parts and a patchwork of\nmotors, gears and drums to launch mini candies.    [@GeekMomProjects] writes:   ... 3D printed cylinders with grooves for the orange rubber O-rings which I purchased. It's the kind of mechanism my son's VEX robotics team usually uses when their robot has to launch projectiles, so I figured it would work for this application.   ( permalink )", 
+            "title": "2020-10-24"
+        }, 
+        {
+            "location": "/1/index.html#submitted-by-91abetusk93_8", 
+            "text": "", 
+            "title": "submitted by [abetusk]"
+        }, 
+        {
+            "location": "/1/index.html#singing-bowls-and-servos", 
+            "text": "", 
+            "title": "Singing Bowls and Servos"
+        }, 
+        {
+            "location": "/1/index.html#2020-10-24_5", 
+            "text": "[ Helen Leigh ] uses singing bowls, servos, LEGOs and electronics\nto create tranquility.   [Helen Leigh] writes:   I'm using a #microbit, a prototype of an extremely cute #LEGO compatible microbit breakout board from @BrownDogGadgets (which u can get on Kickstarter for approximately 15 more hours) and a pair of Geek servos.   ( permalink )", 
+            "title": "2020-10-24"
+        }, 
+        {
+            "location": "/1/index.html#submitted-by-91abetusk93_9", 
             "text": "", 
             "title": "submitted by [abetusk]"
         }

@@ -1,3 +1,13 @@
+Augmented Ouija
+---
+
+\[Joris Wegner\] creates an [ouija board that moves without human interaction](https://joriswegner.de/augmented-ouija/)
+
+[![image](img/2020-12-19_ouija.gif)](https://joriswegner.de/augmented-ouija/)
+
+([permalink](https://web.archive.org/web/20201219163519/https://joriswegner.de/augmented-ouija/))
+
+
 Death Sequencer
 ----
 
@@ -503,8 +513,6 @@ to create tranquility.
 ###### submitted by \[abetusk\]
 
 ---
-
-
 
 
 

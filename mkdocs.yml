@@ -1,8 +1,11 @@
 site_name: mechaesthetic
 pages:
   - index.md
+  - [ '1.md', 'ok' ]
+
 
 docs_dir: 'posts'
+use_directory_urls: false
 theme_dir: 'theme'
 extra:
   base : ""
