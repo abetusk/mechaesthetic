@@ -1,12 +1,16 @@
 Augmented Ouija
 ---
 
+###### 2020-12-19
+
 \[Joris Wegner\] creates an [ouija board that moves without human interaction](https://joriswegner.de/augmented-ouija/)
 
 [![image](img/2020-12-19_ouija.gif)](https://joriswegner.de/augmented-ouija/)
 
 ([permalink](https://web.archive.org/web/20201219163519/https://joriswegner.de/augmented-ouija/))
 
+
+###### submitted by \[abetusk\]
 
 Death Sequencer
 ----
