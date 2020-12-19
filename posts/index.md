@@ -1,5 +1,38 @@
+Death Sequencer
+----
 
-E-Ikn Smartwatch
+###### 2020-12-19
+
+\[Joris Wegner\] uses [the dead bodies of flies to create a step sequencer](https://joriswegner.de/death-sequencer/).
+
+[![image](img/2020-12-19_death-sequencer.gif)](https://joriswegner.de/death-sequencer/)
+
+
+([permalink](https://web.archive.org/web/20201219142503/https://joriswegner.de/death-sequencer/))
+
+###### submitted by \[abetusk\]
+
+---
+
+Custom Porsche Dashboard Gauge
+----
+
+###### 2020-12-19
+
+\[Evancli\] creates a replacement [quad dashboard gauge for their Porche 914](https://hackaday.io/project/176375-porsche-quad-gauge) .
+
+[![image](img/2020-12-19_porsche-gague.jpg)](https://hackaday.io/project/176375-porsche-quad-gauge)
+
+[Source available](https://github.com/Evancli/porsche-quad-gauge).
+
+([permalink](https://web.archive.org/web/20201219142027/https://hackaday.io/project/176375-porsche-quad-gauge))
+
+###### submitted by \[abetusk\]
+
+---
+
+
+E-Ink Smartwatch
 ----
 
 ###### 2020-12-11
