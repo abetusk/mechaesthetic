@@ -1,0 +1,59 @@
+#!/bin/bash
+
+export OUTDIR="./posts"
+export DATADIR="./data"
+export MAXPERPAGE=10
+
+export counter=0
+
+export outcounter=0
+export outfn="$OUTDIR/index.md"
+
+rm -f $outfn
+export prvbasefn='/'
+
+while IFS='' read -r postfn || [[ -n "$postfn" ]] ; do
+  echo "$postfn"
+
+  if [[ "$counter" -ge 10 ]] ; then
+
+    prvbasefn="$outcounter"
+    outcounter=`echo "$outcounter + 1" | bc`
+    counter=0
+    nextoutfn="$OUTDIR/$outcounter.md"
+
+    echo -e '\n\n' >> $outfn
+    if [[ "$outcounter" -gt 1 ]] ; then
+      echo '[<<< previous posts]('$outcounter') &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn')' >> $outfn
+    else
+      echo '[<<< previous posts]('$outcounter')' >> $outfn
+      prvbasefn="/"
+    fi
+    echo -e '\n\n' >> $outfn
+
+    #prvbasefn="$outfn"
+    outfn=$nextoutfn
+
+    rm -f "$outfn"
+
+  fi
+  echo $counter, $outcounter, $outfn, $prvbasefn
+
+  cat $postfn >> $outfn
+  echo -e "\n\n---\n\n" >> $outfn
+
+  counter=`echo "$counter + 1" | bc`
+
+
+done < <( find $DATADIR -maxdepth 1 -type f -regex ".*/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].*$"  | sort -n -r )
+
+# create final nex/previous links
+#
+echo -e '\n\n' >> $outfn
+echo ' &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn')' >> $outfn
+echo -e '\n\n' >> $outfn
+
+mkdocs build --clean
+
+
+./post-process

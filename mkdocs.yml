@@ -1,7 +1,8 @@
 site_name: mechaesthetic
 pages:
   - index.md
-  - [ '1.md', 'ok' ]
+  - 1.md
+  - 2.md
 
 
 docs_dir: 'posts'

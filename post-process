@@ -1,0 +1,17 @@
+#!/bin/bash
+#
+# My version of mkdocs refuses to treat index the same
+# as other pages, so the css and js directories
+# don't get setup properly.
+# And damned if the newer version of mkdocs that fixes
+# the problem can install.
+#
+
+for d in ` find ./site -maxdepth 1 -type d -regex ".*/[0-9][0-9]*$" `; do
+  echo "# post processing $d"
+  pushd $d > /dev/null
+  ln -f -s ../css .
+  ln -f -s ../js .
+  popd > /dev/null
+done
+ 

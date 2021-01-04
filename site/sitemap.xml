@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/index.html</loc>
-     <lastmod>2020-12-19</lastmod>
+     <lastmod>2021-01-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,15 @@
     
     <url>
      <loc>None/1/index.html</loc>
-     <lastmod>2020-12-19</lastmod>
+     <lastmod>2021-01-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/2/index.html</loc>
+     <lastmod>2021-01-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     

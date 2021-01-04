@@ -1,0 +1,23 @@
+Sensor LED Ring
+----
+
+
+###### 2020-10-24
+
+\[Joey Castillo\] is working on an [RGB LED sensor ring](https://twitter.com/josecastillo/status/1319682792763101198).
+
+[![RGB LED Ring](img/2020-10-24_castillo-ring.jpg)](https://twitter.com/josecastillo/status/1319678368728731648)
+
+\[Joey Castillo\] writes:
+
+> ... it's four Dotstar LED's and an LIS2DH accelerometer. ...
+
+Still some issues to work through though:
+
+> the big fail so far: for some reason the SPI Flash chip isn't working, so I don't have room for both the LIS3DH and Dotstar libraries ...
+
+> running a rainbow demo, instead of reacting to motion like I'd hoped.
+
+([permalink](https://web.archive.org/web/20201024132922/https://twitter.com/josecastillo/status/1319678368728731648))
+
+###### submitted by \[abetusk\]

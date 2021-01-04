@@ -1,0 +1,56 @@
+#!/usr/bin/python3
+
+import re
+
+posts = []
+post = []
+
+prev_line_blank = False
+
+name_counter = {}
+
+with open("./index.md") as fp:
+  for line in fp:
+
+    line = line.strip()
+    if len(line)==0:
+      prev_line_blank = True
+      continue
+
+    if prev_line_blank and (line == '---'):
+      pass
+    else:
+      post.append(line)
+
+    if re.match(r'^###### submitted by', line):
+      #print(">>>",line)
+      posts.append(post)
+      post = []
+    else:
+      #print(line)
+      pass
+
+    prev_line_blank = False
+
+if len(post) > 0:
+  posts.append(post);
+
+posts.reverse()
+
+for post in posts:
+  dt = "".join(post[2].split(" ")[1:])
+
+
+  if dt in name_counter:
+    name_counter[dt] += 1
+  else:
+    name_counter[dt] = 0
+
+  fn = dt + "_" + str(name_counter[dt])
+
+  with open(fn,"w") as ofp:
+    ofp.write(post[0] + "\n" + post[1] + "\n\n\n")
+    ofp.write( "\n\n".join(post[2:]) )
+
+  print(">>>", dt, name_counter[dt])
+  #print(post)
