@@ -10,26 +10,29 @@ export outcounter=0
 export outfn="$OUTDIR/index.md"
 
 rm -f $outfn
-export prvbasefn='/'
+export prvbasefn='.'
 
 while IFS='' read -r postfn || [[ -n "$postfn" ]] ; do
   echo "$postfn"
 
   if [[ "$counter" -ge 10 ]] ; then
 
-    outcounter=`echo "$outcounter + 1" | bc`
-    counter=0
-    nextoutfn="$OUTDIR/$outcounter.md"
+    nxtcounter=`echo "$outcounter + 1" | bc`
 
     echo -e '\n\n' >> $outfn
-    if [[ "$outcounter" -gt 1 ]] ; then
-      echo '[<<< previous posts]('$outcounter'/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn'/)' >> $outfn
+    if [[ "$outcounter" -gt 0 ]] ; then
+      echo '[<<< previous posts]('$nxtcounter'/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn'/)' >> $outfn
       prvbasefn="$outcounter"
     else
-      echo '[<<< previous posts]('$outcounter'/)' >> $outfn
-      prvbasefn="/"
+      echo '[<<< previous posts]('$nxtcounter'/)' >> $outfn
+      prvbasefn="."
     fi
     echo -e '\n\n' >> $outfn
+
+    #outcounter=`echo "$outcounter + 1" | bc`
+    outcounter="$nxtcounter"
+    counter=0
+    nextoutfn="$OUTDIR/$outcounter.md"
 
     outfn=$nextoutfn
 
