@@ -17,7 +17,6 @@ while IFS='' read -r postfn || [[ -n "$postfn" ]] ; do
 
   if [[ "$counter" -ge 10 ]] ; then
 
-    prvbasefn="$outcounter"
     outcounter=`echo "$outcounter + 1" | bc`
     counter=0
     nextoutfn="$OUTDIR/$outcounter.md"
@@ -25,13 +24,13 @@ while IFS='' read -r postfn || [[ -n "$postfn" ]] ; do
     echo -e '\n\n' >> $outfn
     if [[ "$outcounter" -gt 1 ]] ; then
       echo '[<<< previous posts]('$outcounter'/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn'/)' >> $outfn
+      prvbasefn="$outcounter"
     else
       echo '[<<< previous posts]('$outcounter'/)' >> $outfn
       prvbasefn="/"
     fi
     echo -e '\n\n' >> $outfn
 
-    #prvbasefn="$outfn"
     outfn=$nextoutfn
 
     rm -f "$outfn"
