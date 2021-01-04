@@ -24,9 +24,9 @@ while IFS='' read -r postfn || [[ -n "$postfn" ]] ; do
 
     echo -e '\n\n' >> $outfn
     if [[ "$outcounter" -gt 1 ]] ; then
-      echo '[<<< previous posts]('$outcounter') &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn')' >> $outfn
+      echo '[<<< previous posts]('$outcounter'/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn'/)' >> $outfn
     else
-      echo '[<<< previous posts]('$outcounter')' >> $outfn
+      echo '[<<< previous posts]('$outcounter'/)' >> $outfn
       prvbasefn="/"
     fi
     echo -e '\n\n' >> $outfn
@@ -50,7 +50,7 @@ done < <( find $DATADIR -maxdepth 1 -type f -regex ".*/[0-9][0-9][0-9][0-9]-[0-9
 # create final nex/previous links
 #
 echo -e '\n\n' >> $outfn
-echo ' &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn')' >> $outfn
+echo ' &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn'/)' >> $outfn
 echo -e '\n\n' >> $outfn
 
 mkdocs build --clean
