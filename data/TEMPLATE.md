@@ -12,6 +12,4 @@ TEXT
 
 ###### submitted by \[POSTER\]
 
----
-
 

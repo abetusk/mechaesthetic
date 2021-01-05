@@ -1,3 +1,25 @@
+Automated Touchscreen Tapping Robot
+----
+
+###### 2021-01-04
+
+\[Jason Huggins\] creates [automated phone tapping robots](https://tapster.io/).
+
+[![image](img/2021-01-04_tapperbot.gif)](https://www.youtube.com/watch?v=VhGNVHUi8PM)
+
+It looks like many if not all of [the designs are open source hardware](https://github.com/tapsterbot).
+
+[Tapster.io](https://tapster.io/) has a suite of robots for sale.
+
+([permalink](https://web.archive.org/web/20210105003331/https://www.youtube.com/watch?v=VhGNVHUi8PM))
+
+###### submitted by \[abetusk\]
+
+
+
+---
+
+
 Augmented Ouija
 ---
 
@@ -157,23 +179,6 @@ The models themselves aren't moveable but the circuit boards look to have some f
 [![pcb cyberpunk construction](img/2020-11-24-pcb-cyberpunk.jpg)](https://www.kickstarter.com/projects/geeekclub/geeek-club-cyber-punk-printer-circuit-board-construction-set)
 
 ([permalink](https://web.archive.org/web/20201117183451/https://www.kickstarter.com/projects/geeekclub/geeek-club-cyber-punk-printer-circuit-board-construction-set))
-
-###### submitted by \[abetusk\]
-
----
-
-
-Analog Terminal Bell
-----
-
-
-###### 2020-11-24
-
-\[Aaron Patterson\] creates [a USB controlled terminal bell](https://github.com/tenderlove/analog-terminal-bell).
-
-[![terminal bell](img/2020-11-24-analog-bell.jpg)](https://github.com/tenderlove/analog-terminal-bell)
-
-([permalink](https://web.archive.org/web/20200921124141/https://github.com/tenderlove/analog-terminal-bell))
 
 ###### submitted by \[abetusk\]
 

@@ -47,7 +47,7 @@ while IFS='' read -r postfn || [[ -n "$postfn" ]] ; do
   counter=`echo "$counter + 1" | bc`
 
 
-done < <( find $DATADIR -maxdepth 1 -type f -regex ".*/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].*$"  | sort -n -r )
+done < <( find $DATADIR -maxdepth 1 -type f -regex ".*/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].*[^~]$"  | sort -n -r )
 
 # create final nex/previous links
 #
