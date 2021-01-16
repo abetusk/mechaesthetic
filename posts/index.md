@@ -1,3 +1,24 @@
+Cyber Visor
+----
+
+###### 2021-01-16
+
+Not much detail but [@CHA2trico shows off a stunning cyber visor](https://twitter.com/CHA2trico/status/1350486900205764608)
+that looks like a face shield with an OLED screen behind it.
+
+[![cyber visor](img/2021-01-16_cyber-mask.gif)](https://twitter.com/CHA2trico/status/1350486900205764608)
+
+
+([permalink](https://web.archive.org/web/20210116184033/https://twitter.com/CHA2trico/status/1350486900205764608))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 GETULA Chain Clock
 ----
 
@@ -163,23 +184,6 @@ laser cut elements, chains and weights.
 [![image](img/2020-12-01_weight-automata.gif)](https://www.patreon.com/posts/project-of-month-44420893)
 
 ([permalink](https://web.archive.org/web/20201201231636/https://www.patreon.com/posts/project-of-month-44420893))
-
-###### submitted by \[abetusk\]
-
----
-
-
-Safe Social Distance Habit Trainer
-----
-
-
-###### 2020-11-27
-
-\[IoT Hub\] offers a very cute ["safe social distance habit trainer" on their Tindie store](https://www.tindie.com/products/iothub/safe-social-distance-habit-trainer/).
-
-[![Safe Social Distance Habit Trainer](img/2020-11-27-safe-social-distance.jpg)](https://www.tindie.com/products/iothub/safe-social-distance-habit-trainer/)
-
-([permalink](https://web.archive.org/web/20201117201153/https://www.tindie.com/products/iothub/safe-social-distance-habit-trainer/))
 
 ###### submitted by \[abetusk\]
 

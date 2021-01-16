@@ -3,6 +3,7 @@ pages:
   - index.md
   - 1.md
   - 2.md
+  - 3.md
 
 
 docs_dir: 'posts'
