@@ -1,3 +1,25 @@
+
+----
+
+###### 2021-02-08
+
+\[[@Coelacant1](https://twitter.com/Coelacant1)\] creates the [start of a protogen mask and suit](https://twitter.com/Coelacant1/status/1356490658190667776).
+
+[![image](img/2021-02-08_coelacant1.gif)](https://twitter.com/Coelacant1/status/1356490658190667776)
+
+The mask with a diffusor on can be seen [in a later tweet](https://twitter.com/tsiica/status/1358546371436048387).
+
+
+([permalink](https://web.archive.org/web/20210208215711/https://twitter.com/Coelacant1/status/1356490658190667776))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Animatronic Robot Singers
 ----
 
@@ -169,23 +191,6 @@ E-Ink Smartwatch
 Source available for both the [software](https://github.com/sqfmi/Watchy) and [hardware](https://github.com/sqfmi/Watchy-Hardware).
 
 ([permalink](https://web.archive.org/web/20201211132149/https://twitter.com/sqfmi/status/1332110199264567297))
-
-###### submitted by \[abetusk\]
-
----
-
-
-Liquid Bottle Filling Machine
-----
-
-
-###### 2020-12-09
-
-\[Easy HomeMade Projects\] creates an [automated liquid bottle filling machine](https://youtu.be/2Hz9KbxDWls).
-
-[![bottle filling machine](img/2020-12-09_filling-machine.gif)](https://youtu.be/2Hz9KbxDWls)
-
-([permalink](https://web.archive.org/web/20201209091138if_/https://www.youtube.com/watch?v=2Hz9KbxDWls&feature=youtu.be))
 
 ###### submitted by \[abetusk\]
 
