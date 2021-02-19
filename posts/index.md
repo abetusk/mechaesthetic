@@ -1,3 +1,63 @@
+Daily Basic-Bitch Quote Machine
+----
+
+###### 2021-02-19
+
+\[llvllch\] creates a [daily basic-bitch quote machine](https://github.com/llvllch/bbq).
+
+[![basic-bitch quote](img/2021-02-19-basic-bitch-quote.jpg)](https://github.com/llvllch/bbq)
+
+
+([permalink](https://web.archive.org/web/20210219152813/https://github.com/llvllch/bbq))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
+Automatic Water Dispenser
+----
+
+###### 2021-02-19
+
+\[Chris Courses\] creates an [automated water dispenser](https://www.youtube.com/watch?v=S3okv0jYZUc)
+
+[![automatic water dispenser](img/2021-02-19-water-dispenser.gif)](https://www.youtube.com/watch?v=S3okv0jYZUc)
+
+
+([permalink](https://web.archive.org/web/20210219151745/https://www.youtube.com/watch?v=S3okv0jYZUc))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
+Machine Spirits
+----
+
+###### 2021-02-19
+
+Though the details are light, \[s3msify\] creates an [automated drink mixer](https://youtu.be/c1HVvDC-dLs).
+
+[![machine spirits](img/2021-02-19-machine-spirits.gif)](https://youtu.be/c1HVvDC-dLs)
+
+
+([permalink](https://web.archive.org/web/20210219150042/https://www.youtube.com/watch?v=c1HVvDC-dLs))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Plastic Bag Blowing in the Wind Machine
 ----
 
@@ -137,67 +197,6 @@ that looks like a face shield with an OLED screen behind it.
 
 
 
-
----
-
-
-GETULA Chain Clock
-----
-
-###### 2021-01-07
-
-\[Ekaggrat Singh Kalsi\] creates [GETULA, a 3D printed "chain clock"](https://hackaday.io/project/176659-getula)
-that morphs digits from a stepper motor fed chain.
-
-[![GETULA chain clock](img/2021-01-07_getula.gif)](https://hackaday.io/project/176659-getula)
-
-[Hackster.io has a nice writeup](https://www.hackster.io/news/getula-is-a-morphing-clock-that-tells-time-with-bent-chains-4926592d9c8c) as well.
-
-([permalink](https://web.archive.org/web/20210107102827/https://hackaday.io/project/176659-getula))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Automated Touchscreen Tapping Robot
-----
-
-###### 2021-01-04
-
-\[Jason Huggins\] creates [automated phone tapping robots](https://tapster.io/).
-
-[![image](img/2021-01-04_tapperbot.gif)](https://www.youtube.com/watch?v=VhGNVHUi8PM)
-
-It looks like many if not all of [the designs are open source hardware](https://github.com/tapsterbot).
-
-[Tapster.io](https://tapster.io/) has a suite of robots for sale.
-
-([permalink](https://web.archive.org/web/20210105003331/https://www.youtube.com/watch?v=VhGNVHUi8PM))
-
-###### submitted by \[abetusk\]
-
-
-
----
-
-
-Augmented Ouija
----
-
-
-###### 2020-12-19
-
-\[Joris Wegner\] creates an [ouija board that moves without human interaction](https://joriswegner.de/augmented-ouija/)
-
-[![image](img/2020-12-19_ouija.gif)](https://joriswegner.de/augmented-ouija/)
-
-([permalink](https://web.archive.org/web/20201219163519/https://joriswegner.de/augmented-ouija/))
-
-###### submitted by \[abetusk\]
 
 ---
 
