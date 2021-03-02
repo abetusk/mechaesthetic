@@ -1,3 +1,23 @@
+Volumetric OLED Display
+----
+
+###### 2021-03-02
+
+\[Sean Hodgins\] creates a [volumetric OLED display](https://www.youtube.com/watch?v=sVv1oc14X1w).
+
+[![volumetric OLED display](img/2021-03-02-volumetric-oled.gif)](https://www.youtube.com/watch?v=sVv1oc14X1w)
+
+
+([permalink](https://web.archive.org/web/20210302164146/https://www.youtube.com/watch?v=sVv1oc14X1w))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Ultrasonic Microphone Jammer Choker
 ----
 
@@ -172,26 +192,6 @@ The mask with a diffusor on can be seen [in a later tweet](https://twitter.com/t
 
 
 ([permalink](https://web.archive.org/web/20210208215711/https://twitter.com/Coelacant1/status/1356490658190667776))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Animatronic Robot Singers
-----
-
-###### 2021-02-02
-
-Details are light but \[natalie\] creates [animatronic robot singers](https://twitter.com/agirisan/status/1356122332641841153).
-
-[![animatronic singers](img/2021-02-02_animatronic-singing.gif)](https://twitter.com/agirisan/status/1356122332641841153)
-
-
-([permalink](https://web.archive.org/web/20210202191047/https://twitter.com/agirisan/status/1356122332641841153))
 
 ###### submitted by \[abetusk\]
 
