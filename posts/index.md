@@ -1,3 +1,55 @@
+RGB LED Dice
+----
+
+###### 2021-03-21
+
+\[Jean Simonet\] creates [RGB LED "smart" dice](https://www.pixels-dice.com/) called Pixels Dice.
+
+[![pixels on kickstarter](img/2021-03-21-rgb-dice.gif)](https://www.pixels-dice.com/)
+
+The dice look to be [open source hardware](https://hackaday.io/project/28377-pixels),
+with firmware for the dice and software to interface with them via Bluetooth available
+on [GitHub](https://github.com/jeansimonet/Pixels).
+
+The dice know their orientation when they land and can light up accordingly.
+They can communicate back their position, opening the possibility of novel interfaces,
+such as speaking which face they landed on, and allowing custom light patterns
+for different rolls.
+
+\[Jean Simonet\] has videos on [the creation process](https://www.youtube.com/watch?v=VQzSievR9Zk),
+including solder, casting and testing the dice.
+
+([permalink](https://web.archive.org/web/20210318234713/https://www.pixels-dice.com/))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
+Tiny Laser Cutter
+----
+
+###### 2021-03-21
+
+\[Mike Rankin\] creates a [tiny laser cutter](https://www.youtube.com/watch?v=s-a9CgvyQM8).
+
+[![burninator](img/2021-03-21-burninantor.gif)](https://www.youtube.com/watch?v=s-a9CgvyQM8)
+
+Source is available on [GitHub](https://github.com/mike-rankin/ESP32_Burninator).
+
+([permalink](https://web.archive.org/web/20210321084158/https://www.youtube.com/watch?v=s-a9CgvyQM8))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Cute Translucent Computer Case
 ----
 
@@ -151,47 +203,6 @@ Plastic Bag Blowing in the Wind Machine
 [![plastic bag in the wind machine](img/2021-02-11_bagfan.gif)](https://youtu.be/LakPN8aIe5Q)
 
 ([permalink](https://web.archive.org/web/20210211110811if_/https://www.youtube.com/watch?v=LakPN8aIe5Q&feature=youtu.be))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Wolf Mask
-----
-
-###### 2021-02-08
-
-\[@WillowCreative_\] shows off [a wolf head assembly](https://twitter.com/WillowCreative_/status/1358489637749145601)
-
-[![wolf head assembly](img/2021-02-08_wolf.gif)](https://twitter.com/WillowCreative_/status/1358489637749145601)
-
-([permalink](https://web.archive.org/web/20210209043844/https://twitter.com/WillowCreative_/status/1358489637749145601))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Knitting Machine Automatic Color Changer
-----
-
-###### 2021-02-08
-
-\[Sarah Spencer\] and \[John Spencer\] create an open source hardware [automatic thread color changer for knitting machines](https://twitter.com/HeartOfPluto_/status/1358306901289697282).
-
-[![automatic color changer](img/2021-02-08_heartofpluto.jpg)](https://twitter.com/HeartOfPluto_/status/1358306901289697282)
-
-The circuit board, design files and source code are available on [GitHub](https://github.com/mage0r/AutoChanger).
-They also have some blog posts with [more details on the machine and build](http://heartofpluto.co/2017/10/21/building-a-better-colour-changer-part-3-revising-the-design/#more-974).
-
-([permalink](https://web.archive.org/web/20210207064947/https://twitter.com/HeartOfPluto_/status/1358306901289697282))
 
 ###### submitted by \[abetusk\]
 

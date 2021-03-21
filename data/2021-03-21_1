@@ -1,0 +1,26 @@
+RGB LED Dice
+----
+
+###### 2021-03-21
+
+\[Jean Simonet\] creates [RGB LED "smart" dice](https://www.pixels-dice.com/) called Pixels Dice.
+
+[![pixels on kickstarter](img/2021-03-21-rgb-dice.gif)](https://www.pixels-dice.com/)
+
+The dice look to be [open source hardware](https://hackaday.io/project/28377-pixels),
+with firmware for the dice and software to interface with them via Bluetooth available
+on [GitHub](https://github.com/jeansimonet/Pixels).
+
+The dice know their orientation when they land and can light up accordingly.
+They can communicate back their position, opening the possibility of novel interfaces,
+such as speaking which face they landed on, and allowing custom light patterns
+for different rolls.
+
+\[Jean Simonet\] has videos on [the creation process](https://www.youtube.com/watch?v=VQzSievR9Zk),
+including solder, casting and testing the dice.
+
+([permalink](https://web.archive.org/web/20210318234713/https://www.pixels-dice.com/))
+
+###### submitted by \[abetusk\]
+
+
