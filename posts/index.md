@@ -1,3 +1,46 @@
+Eye Webcam
+----
+
+###### 2021-04-23
+
+Marc Teyessier creats an [anthropomorphic webcam](https://marcteyssier.com/projects/eyecam/).
+
+[![eye webcam](img/2021-04-23-eye-webcam.gif)](https://marcteyssier.com/projects/eyecam/)
+
+
+([permalink](https://web.archive.org/web/20210416225749/https://marcteyssier.com/projects/eyecam/))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
+Ferrofluid Speaker
+----
+
+###### 2021-04-23
+
+\[DAKD Jung\] creates a [ferrofluid speaker](https://youtu.be/7a3JiGTE9sc).
+
+[![ferrofluid speaker](img/2021-04-23-ferrofluid-speaker.gif)](https://youtu.be/7a3JiGTE9sc)
+
+There's a [build log](https://hackaday.io/project/179136-ferrofluid-display-cell-bluetooth-speaker) on Hack-a-Day
+showing details of the build.
+
+
+([permalink](https://web.archive.org/web/20210422005625/https://hackaday.io/project/179136-ferrofluid-display-cell-bluetooth-speaker))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 E-Ink Clock
 ----
 
@@ -164,46 +207,6 @@ Daily Basic-Bitch Quote Machine
 
 
 ([permalink](https://web.archive.org/web/20210219152813/https://github.com/llvllch/bbq))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Automatic Water Dispenser
-----
-
-###### 2021-02-19
-
-\[Chris Courses\] creates an [automated water dispenser](https://www.youtube.com/watch?v=S3okv0jYZUc)
-
-[![automatic water dispenser](img/2021-02-19-water-dispenser.gif)](https://www.youtube.com/watch?v=S3okv0jYZUc)
-
-
-([permalink](https://web.archive.org/web/20210219151745/https://www.youtube.com/watch?v=S3okv0jYZUc))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Machine Spirits
-----
-
-###### 2021-02-19
-
-Though the details are light, \[s3msify\] creates an [automated drink mixer](https://youtu.be/c1HVvDC-dLs).
-
-[![machine spirits](img/2021-02-19-machine-spirits.gif)](https://youtu.be/c1HVvDC-dLs)
-
-
-([permalink](https://web.archive.org/web/20210219150042/https://www.youtube.com/watch?v=c1HVvDC-dLs))
 
 ###### submitted by \[abetusk\]
 
