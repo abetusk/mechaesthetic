@@ -1,3 +1,23 @@
+Musical Glove
+----
+
+###### 2021-06-09
+
+\[Gaetano Licata\] creates a [musical glove](https://twitter.com/GaetanoLICATA5/status/1411744074210611204)
+from a microbit.
+
+[![musical glove](img/2021-07-05-musical-glove.gif)](https://twitter.com/GaetanoLICATA5/status/1411744074210611204)
+
+([permalink](https://web.archive.org/web/2/https://twitter.com/GaetanoLICATA5/status/1411744074210611204))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Laser Shark LED Coaster
 ----
 
@@ -187,25 +207,6 @@ that uses ultrasonic transducers to jam nearby microphones.
 Source code and design files are open source and available on [GitHub](https://github.com/sexycyborg/Wearable-Audio-Jammer).
 
 ([permalink](https://web.archive.org/save/https://twitter.com/RealSexyCyborg/status/1366747095235915777))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Experimental Bellow Instrument
-----
-
-###### 2021-02-23
-
-\[Sam Underwood\] is working on [an experimental bellows instrument](https://twitter.com/misterunderwood/status/1351587816355065864).
-
-[![experimental bellows instrument](img/2021-02-23_organ.gif)](https://twitter.com/misterunderwood/status/1351587816355065864)
-
-([permalink](https://web.archive.org/web/20210119175134/https://twitter.com/misterunderwood/status/1351587816355065864))
 
 ###### submitted by \[abetusk\]
 
