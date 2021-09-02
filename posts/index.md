@@ -1,3 +1,23 @@
+Kraken RGB PCB
+----
+
+###### 2021-09-02
+
+\[Jason Coon\] creates a [Kraken RGB LED PCB with diffusor](https://twitter.com/jasoncoon_/status/1432860347082412035).
+
+[![kraken rgb pcb](img/2021-09-02-octo-pcb.gif)](https://twitter.com/jasoncoon_/status/1432860347082412035)
+
+
+([permalink](https://web.archive.org/web/20210901010641/https://twitter.com/jasoncoon_/status/1432860347082412035))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Musical Glove
 ----
 
@@ -185,28 +205,6 @@ Volumetric OLED Display
 
 
 ([permalink](https://web.archive.org/web/20210302164146/https://www.youtube.com/watch?v=sVv1oc14X1w))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Ultrasonic Microphone Jammer Choker
-----
-
-###### 2021-03-02
-
-\[Naomi Wu\] creates a [cyberpunk ultrasonic microphone jammer](https://twitter.com/RealSexyCyborg/status/1366747095235915777)
-that uses ultrasonic transducers to jam nearby microphones.
-
-[![Naomi Wu Cyberpunk Ultrasonic Microphone Jammer](img/2021-03-02-wu-jammer-necklace.jpg)](https://twitter.com/RealSexyCyborg/status/1366747095235915777)
-
-Source code and design files are open source and available on [GitHub](https://github.com/sexycyborg/Wearable-Audio-Jammer).
-
-([permalink](https://web.archive.org/save/https://twitter.com/RealSexyCyborg/status/1366747095235915777))
 
 ###### submitted by \[abetusk\]
 

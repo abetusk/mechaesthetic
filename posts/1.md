@@ -1,3 +1,25 @@
+Ultrasonic Microphone Jammer Choker
+----
+
+###### 2021-03-02
+
+\[Naomi Wu\] creates a [cyberpunk ultrasonic microphone jammer](https://twitter.com/RealSexyCyborg/status/1366747095235915777)
+that uses ultrasonic transducers to jam nearby microphones.
+
+[![Naomi Wu Cyberpunk Ultrasonic Microphone Jammer](img/2021-03-02-wu-jammer-necklace.jpg)](https://twitter.com/RealSexyCyborg/status/1366747095235915777)
+
+Source code and design files are open source and available on [GitHub](https://github.com/sexycyborg/Wearable-Audio-Jammer).
+
+([permalink](https://web.archive.org/save/https://twitter.com/RealSexyCyborg/status/1366747095235915777))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Experimental Bellow Instrument
 ----
 
@@ -170,26 +192,6 @@ Details are light but \[natalie\] creates [animatronic robot singers](https://tw
 
 
 ([permalink](https://web.archive.org/web/20210202191047/https://twitter.com/agirisan/status/1356122332641841153))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Mechanical 7 Segment PCB Coil Display 
-----
-
-###### 2021-02-01
-
-\[Indoorgeek\] creates a [mechanical 7 segment display using PCB coils](https://www.instructables.com/Mechanical-7-Segment-Display-V2/)
-a 3D printed housing and neodymium magnets.
-
-[![pcb 7 segment display](img/2021-02-01_pcbcoil-7seg.gif)](https://www.instructables.com/Mechanical-7-Segment-Display-V2/)
-
-([permalink](https://web.archive.org/web/20210201193208/https://www.instructables.com/Mechanical-7-Segment-Display-V2/))
 
 ###### submitted by \[abetusk\]
 
