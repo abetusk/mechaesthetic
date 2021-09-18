@@ -1,3 +1,42 @@
+Linear Clock
+----
+
+###### 2021-09-17
+
+\[Ragusa12\] creates a [linear clock](https://www.reddit.com/r/arduino/comments/pnyy3g/i_made_a_physical_version_of_the_oddly_satisfying/) from servos and a real time clock.
+
+[![linear clock](img/2021-09-17-odd-clock.gif)](https://www.reddit.com/r/arduino/comments/pnyy3g/i_made_a_physical_version_of_the_oddly_satisfying/)
+
+
+([permalink](https://web.archive.org/web/20210917022529/https://www.reddit.com/r/arduino/comments/pnyy3g/i_made_a_physical_version_of_the_oddly_satisfying/))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
+Holo Clock
+----
+
+###### 2021-09-17
+
+\[Saulemmetquinn\] creates a [3d printed holo clock](https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/).
+
+[![3D printed holo clock](img/2021-09-17-holo-clock.jpg)](https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/)
+
+([permalink](https://web.archive.org/web/20210817195807/https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Sound Reactive LED Matrix Mask
 ----
 
@@ -151,58 +190,6 @@ E-Ink Clock
 
 
 ([permalink](https://web.archive.org/web/20210403211404/https://twitter.com/sqfmi/status/1378081140867731457))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-RGB LED Dice
-----
-
-###### 2021-03-21
-
-\[Jean Simonet\] creates [RGB LED "smart" dice](https://www.pixels-dice.com/) called Pixels Dice.
-
-[![pixels on kickstarter](img/2021-03-21-rgb-dice.gif)](https://www.pixels-dice.com/)
-
-The dice look to be [open source hardware](https://hackaday.io/project/28377-pixels),
-with firmware for the dice and software to interface with them via Bluetooth available
-on [GitHub](https://github.com/jeansimonet/Pixels).
-
-The dice know their orientation when they land and can light up accordingly.
-They can communicate back their position, opening the possibility of novel interfaces,
-such as speaking which face they landed on, and allowing custom light patterns
-for different rolls.
-
-\[Jean Simonet\] has videos on [the creation process](https://www.youtube.com/watch?v=VQzSievR9Zk),
-including solder, casting and testing the dice.
-
-([permalink](https://web.archive.org/web/20210318234713/https://www.pixels-dice.com/))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Tiny Laser Cutter
-----
-
-###### 2021-03-21
-
-\[Mike Rankin\] creates a [tiny laser cutter](https://www.youtube.com/watch?v=s-a9CgvyQM8).
-
-[![burninator](img/2021-03-21-burninantor.gif)](https://www.youtube.com/watch?v=s-a9CgvyQM8)
-
-Source is available on [GitHub](https://github.com/mike-rankin/ESP32_Burninator).
-
-([permalink](https://web.archive.org/web/20210321084158/https://www.youtube.com/watch?v=s-a9CgvyQM8))
 
 ###### submitted by \[abetusk\]
 
