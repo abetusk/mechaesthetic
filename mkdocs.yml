@@ -1,5 +1,5 @@
 site_name: mechaesthetic
-pages:
+nav:
   - index.md
   - 1.md
   - 2.md
@@ -10,7 +10,9 @@ pages:
 
 docs_dir: 'posts'
 use_directory_urls: false
-theme_dir: 'theme'
+theme:
+  name: mkdocs
+  custom_dir: 'theme'
 extra:
   base : ""
   minitrack: "https://mechaelephant.com/minitrack/vampirepuff.svg"

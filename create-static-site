@@ -21,10 +21,18 @@ while IFS='' read -r postfn || [[ -n "$postfn" ]] ; do
 
     echo -e '\n\n' >> $outfn
     if [[ "$outcounter" -gt 0 ]] ; then
-      echo '[<<< previous posts]('$nxtcounter'/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn'/)' >> $outfn
+      #echo '[<<< previous posts]('$nxtcounter'/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn'/)' >> $outfn
+
+      if [[ "$prvbasefn" == "." ]] ; then
+        echo '[<<< previous posts]('$nxtcounter.html') &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>](/)' >> $outfn
+      else
+
+        echo '[<<< previous posts]('$nxtcounter.html') &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn.html')' >> $outfn
+      fi
       prvbasefn="$outcounter"
     else
-      echo '[<<< previous posts]('$nxtcounter'/)' >> $outfn
+      #echo '[<<< previous posts]('$nxtcounter'/)' >> $outfn
+      echo '[<<< previous posts]('$nxtcounter.html')' >> $outfn
       prvbasefn="."
     fi
     echo -e '\n\n' >> $outfn
@@ -52,7 +60,8 @@ done < <( find $DATADIR -maxdepth 1 -type f -regex ".*/[0-9][0-9][0-9][0-9]-[0-9
 # create final nex/previous links
 #
 echo -e '\n\n' >> $outfn
-echo ' &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn'/)' >> $outfn
+#echo ' &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn'/)' >> $outfn
+echo ' &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [>>>]('$prvbasefn.html')' >> $outfn
 echo -e '\n\n' >> $outfn
 
 mkdocs build --clean
