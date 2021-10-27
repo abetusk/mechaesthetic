@@ -1,3 +1,23 @@
+Cute Robot
+----
+
+###### 2021-10-26
+
+\[Pack\] creates a [cute robot](https://twitter.com/packratt1/status/1452866770503540742).
+
+[![cute robot](img/2021-10-26-cute-robot.gif)](https://twitter.com/packratt1/status/1452866770503540742)
+
+
+([permalink](https://web.archive.org/web/20211026090433/https://twitter.com/packratt1/status/1452866770503540742))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Projection Mapped Etch-a-Sketch
 ----
 
@@ -169,26 +189,6 @@ Kraken RGB PCB
 
 
 ([permalink](https://web.archive.org/web/20210901010641/https://twitter.com/jasoncoon_/status/1432860347082412035))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Musical Glove
-----
-
-###### 2021-07-05
-
-\[Gaetano Licata\] creates a [musical glove](https://twitter.com/GaetanoLICATA5/status/1411744074210611204)
-from a microbit.
-
-[![musical glove](img/2021-07-05-musical-glove.gif)](https://twitter.com/GaetanoLICATA5/status/1411744074210611204)
-
-([permalink](https://web.archive.org/web/2/https://twitter.com/GaetanoLICATA5/status/1411744074210611204))
 
 ###### submitted by \[abetusk\]
 
