@@ -1,3 +1,23 @@
+Mechanical 7 Segment PCB Coil Display 
+----
+
+###### 2021-02-01
+
+\[Indoorgeek\] creates a [mechanical 7 segment display using PCB coils](https://www.instructables.com/Mechanical-7-Segment-Display-V2/)
+a 3D printed housing and neodymium magnets.
+
+[![pcb 7 segment display](img/2021-02-01_pcbcoil-7seg.gif)](https://www.instructables.com/Mechanical-7-Segment-Display-V2/)
+
+([permalink](https://web.archive.org/web/20210201193208/https://www.instructables.com/Mechanical-7-Segment-Display-V2/))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Cyber Visor
 ----
 
@@ -163,27 +183,6 @@ Rainbow Birthday Card
 [![rainbow birthday card](img/2020-12-09_rainbow-card.gif)](https://charlyn.codes/mini-make-light-up-birthday-card/)
 
 ([permalink](https://web.archive.org/web/20201209084811/https://charlyn.codes/mini-make-light-up-birthday-card/))
-
-###### submitted by \[abetusk\]
-
----
-
-
-Weight Powered Automata
-----
-
-
-###### 2020-12-01
-
-\[WolfCatWorkshop\] creates a [weight powered automata](https://www.patreon.com/posts/project-of-month-44420893).
-
-The speed is limited by the air friction of the spinning 'fly-fan' with the assembly a combination of
-
-laser cut elements, chains and weights.
-
-[![image](img/2020-12-01_weight-automata.gif)](https://www.patreon.com/posts/project-of-month-44420893)
-
-([permalink](https://web.archive.org/web/20201201231636/https://www.patreon.com/posts/project-of-month-44420893))
 
 ###### submitted by \[abetusk\]
 
