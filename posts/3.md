@@ -1,3 +1,23 @@
+Animatronic Robot Singers
+----
+
+###### 2021-02-02
+
+Details are light but \[natalie\] creates [animatronic robot singers](https://twitter.com/agirisan/status/1356122332641841153).
+
+[![animatronic singers](img/2021-02-02_animatronic-singing.gif)](https://twitter.com/agirisan/status/1356122332641841153)
+
+
+([permalink](https://web.archive.org/web/20210202191047/https://twitter.com/agirisan/status/1356122332641841153))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Mechanical 7 Segment PCB Coil Display 
 ----
 
@@ -166,23 +186,6 @@ Liquid Bottle Filling Machine
 [![bottle filling machine](img/2020-12-09_filling-machine.gif)](https://youtu.be/2Hz9KbxDWls)
 
 ([permalink](https://web.archive.org/web/20201209091138if_/https://www.youtube.com/watch?v=2Hz9KbxDWls&feature=youtu.be))
-
-###### submitted by \[abetusk\]
-
----
-
-
-Rainbow Birthday Card
-----
-
-
-###### 2020-12-09
-
-\[Charlyn\] makes a [laser cut RGB LED backlit birthday card](https://charlyn.codes/mini-make-light-up-birthday-card/).
-
-[![rainbow birthday card](img/2020-12-09_rainbow-card.gif)](https://charlyn.codes/mini-make-light-up-birthday-card/)
-
-([permalink](https://web.archive.org/web/20201209084811/https://charlyn.codes/mini-make-light-up-birthday-card/))
 
 ###### submitted by \[abetusk\]
 
