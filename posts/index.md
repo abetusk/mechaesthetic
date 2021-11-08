@@ -1,3 +1,23 @@
+Typewriter Instrument
+----
+
+###### 2021-11-08
+
+\[William Sun Petrus\] creates a typewriter midi instrument](https://www.youtube.com/watch?v=liDnSRDTBhQ).
+
+[![typewriter midi](img/2021-11-08-typewriter-midi.gif)](https://www.youtube.com/watch?v=liDnSRDTBhQ)
+
+
+([permalink](https://web.archive.org/web/20201103074334/https://www.youtube.com/watch?v=liDnSRDTBhQ))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Fabulous Handbag
 ----
 
@@ -169,26 +189,6 @@ Holo Clock
 [![3D printed holo clock](img/2021-09-17-holo-clock.jpg)](https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/)
 
 ([permalink](https://web.archive.org/web/20210817195807/https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Sound Reactive LED Matrix Mask
-----
-
-###### 2021-09-14
-
-\[TechnoChic\] creates a [sound reactive LED matrix mask](https://www.youtube.com/watch?v=idmaMeeAQwE).
-
-[![lady gaga vma cosplay led matrix mask](img/2021-09-14-led-matrix-mask.gif)](https://www.youtube.com/watch?v=idmaMeeAQwE)
-
-
-([permalink](https://web.archive.org/web/20210914203050/https://www.youtube.com/watch?v=idmaMeeAQwE))
 
 ###### submitted by \[abetusk\]
 
