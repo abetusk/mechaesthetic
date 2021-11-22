@@ -1,3 +1,24 @@
+PCB Christmas Tree
+----
+
+###### 2021-11-22
+
+
+\[Electronics Corner\] creates a musical PCB Christmas tree ornament.
+
+[![PCB Christmas Tree](img/2021-11-22-pcb-xmas-tree.jpg)](youtube.com/watch?v=CtCOZ-O_l3M)
+
+
+([permalink](https://web.archive.org/web/20210125181648/https://www.tindie.com/products/alexisgm/musical-led-christmas-tree-kit/))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Motorized Guitar Pick
 ----
 
@@ -170,26 +191,6 @@ after seeing a custom concept render on Instagram.
 
 
 ([permalink](https://web.archive.org/web/20210924015314/https://www.hackster.io/cameroncoward/the-expletive-keyboard-dee056))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Linear Clock
-----
-
-###### 2021-09-17
-
-\[Ragusa12\] creates a [linear clock](https://www.reddit.com/r/arduino/comments/pnyy3g/i_made_a_physical_version_of_the_oddly_satisfying/) from servos and a real time clock.
-
-[![linear clock](img/2021-09-17-odd-clock.gif)](https://www.reddit.com/r/arduino/comments/pnyy3g/i_made_a_physical_version_of_the_oddly_satisfying/)
-
-
-([permalink](https://web.archive.org/web/20210917022529/https://www.reddit.com/r/arduino/comments/pnyy3g/i_made_a_physical_version_of_the_oddly_satisfying/))
 
 ###### submitted by \[abetusk\]
 
