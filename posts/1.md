@@ -1,3 +1,25 @@
+Expletive Keyboard
+----
+
+###### 2021-09-26
+
+\[Cameron Coward\] creates a
+[custom keyboard](https://www.hackster.io/cameroncoward/the-expletive-keyboard-dee056)
+after seeing a custom concept render on Instagram.
+
+[![fukboard](img/2021-09-26-fukboard.jpg)](https://www.hackster.io/cameroncoward/the-expletive-keyboard-dee056)
+
+
+([permalink](https://web.archive.org/web/20210924015314/https://www.hackster.io/cameroncoward/the-expletive-keyboard-dee056))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Linear Clock
 ----
 
@@ -170,26 +192,6 @@ showing details of the build.
 
 
 ([permalink](https://web.archive.org/web/20210422005625/https://hackaday.io/project/179136-ferrofluid-display-cell-bluetooth-speaker))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-E-Ink Clock
-----
-
-###### 2021-04-03
-
-\[SQFMI\] creates an [E-Ink clock](https://twitter.com/sqfmi/status/1378081140867731457).
-
-[![e-ink clock](img/2021-04-03-eink-clock.gif)](https://twitter.com/sqfmi/status/1378081140867731457)
-
-
-([permalink](https://web.archive.org/web/20210403211404/https://twitter.com/sqfmi/status/1378081140867731457))
 
 ###### submitted by \[abetusk\]
 

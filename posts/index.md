@@ -1,3 +1,23 @@
+Cloud Display
+----
+
+###### 2021-12-14
+
+\[Rafael Lozano-Hemmer\] creates a [cloud display](https://www.lozano-hemmer.com/cloud_display.php).
+
+[![Cloud Display](img/2021-12-14-cloud-lozano-hemmer.gif)](https://www.lozano-hemmer.com/cloud_display.php)
+
+
+([permalink](https://web.archive.org/web/20210421062455/https://www.lozano-hemmer.com/cloud_display.php))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 PCB Christmas Tree
 ----
 
@@ -169,28 +189,6 @@ Microsynth Business Card
 
 
 ([permalink](https://web.archive.org/web/20210930211551/https://hackaday.io/project/181914-microsynth-part-biz-card-part-synth-all-analog))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Expletive Keyboard
-----
-
-###### 2021-09-26
-
-\[Cameron Coward\] creates a
-[custom keyboard](https://www.hackster.io/cameroncoward/the-expletive-keyboard-dee056)
-after seeing a custom concept render on Instagram.
-
-[![fukboard](img/2021-09-26-fukboard.jpg)](https://www.hackster.io/cameroncoward/the-expletive-keyboard-dee056)
-
-
-([permalink](https://web.archive.org/web/20210924015314/https://www.hackster.io/cameroncoward/the-expletive-keyboard-dee056))
 
 ###### submitted by \[abetusk\]
 
