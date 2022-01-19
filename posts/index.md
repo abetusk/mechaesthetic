@@ -1,3 +1,23 @@
+Tiger Tensegrity
+----
+
+###### 2022-01-19
+
+\[3DPrintBunny\] creates a [floating tiger tensegrity](https://twitter.com/3DPrintBunny/status/1483612192536956930)
+
+[![tiger tensegrity](img/2022-01-19_tensegrity.jpg)](https://twitter.com/3DPrintBunny/status/1483612192536956930)
+
+
+([permalink](https://web.archive.org/web/20221230000000/https://twitter.com/3DPrintBunny/status/1483612192536956930))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Framed Generative E-Ink Landscape
 ----
 
@@ -173,25 +193,6 @@ Projection Mapped Etch-a-Sketch
 
 
 ([permalink](https://web.archive.org/web/20211026083501/https://twitter.com/spacefillerart/status/1452690698717700098))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Metal Hand Door Knob
-----
-
-###### 2021-09-30
-
-\[Matthew Mead\] creates a cast metal hand and puts it in place of a door knob.
-
-[![metal hand door knob](img/2021-09-30-metal-hand-knob.jpg)](https://www.instructables.com/My-Metal-Hand-Doorknob/)
-
-([permalink](https://web.archive.org/web/20210929051223/https://www.instructables.com/My-Metal-Hand-Doorknob/))
 
 ###### submitted by \[abetusk\]
 
