@@ -1,3 +1,23 @@
+Super Coin Machine 3.0
+----
+
+###### 2022-01-20
+
+\[Daniele Tartaglia\] creates a [coin sorting machine](https://www.youtube.com/watch?v=5DuVCqvTGqM).
+
+[![coin sorting machine](img/2021-01-20-coin-sorter.gif)](https://www.youtube.com/watch?v=5DuVCqvTGqM)
+
+
+([permalink](https://web.archive.org/web/20220120181650/https://www.youtube.com/watch?v=5DuVCqvTGqM))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Tiger Tensegrity
 ----
 
@@ -173,26 +193,6 @@ Cute Robot
 
 
 ([permalink](https://web.archive.org/web/20211026090433/https://twitter.com/packratt1/status/1452866770503540742))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Projection Mapped Etch-a-Sketch
-----
-
-###### 2021-10-26
-
-\[Spacefiller\] creates a [projection mapped Etch-a-Sketch](https://twitter.com/spacefillerart/status/1452690698717700098).
-
-[![projection mapped etch-a-sketch](img/2021-10-26-projmap-etch.gif)](https://twitter.com/spacefillerart/status/1452690698717700098)
-
-
-([permalink](https://web.archive.org/web/20211026083501/https://twitter.com/spacefillerart/status/1452690698717700098))
 
 ###### submitted by \[abetusk\]
 

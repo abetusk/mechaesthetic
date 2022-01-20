@@ -1,3 +1,25 @@
+GETULA Chain Clock
+----
+
+###### 2021-01-07
+
+\[Ekaggrat Singh Kalsi\] creates [GETULA, a 3D printed "chain clock"](https://hackaday.io/project/176659-getula)
+that morphs digits from a stepper motor fed chain.
+
+[![GETULA chain clock](img/2021-01-07_getula.gif)](https://hackaday.io/project/176659-getula)
+
+[Hackster.io has a nice writeup](https://www.hackster.io/news/getula-is-a-morphing-clock-that-tells-time-with-bent-chains-4926592d9c8c) as well.
+
+([permalink](https://web.archive.org/web/20210107102827/https://hackaday.io/project/176659-getula))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Automated Touchscreen Tapping Robot
 ----
 
@@ -158,27 +180,6 @@ Safe Social Distance Habit Trainer
 [![Safe Social Distance Habit Trainer](img/2020-11-27-safe-social-distance.jpg)](https://www.tindie.com/products/iothub/safe-social-distance-habit-trainer/)
 
 ([permalink](https://web.archive.org/web/20201117201153/https://www.tindie.com/products/iothub/safe-social-distance-habit-trainer/))
-
-###### submitted by \[abetusk\]
-
----
-
-
-PCB Cyberpunk Construction Set
-----
-
-
-###### 2020-11-24
-
-\[Geeek Club\] has a Kickstarter for a [cyberpunk PCB construction set](https://www.kickstarter.com/projects/geeekclub/geeek-club-cyber-punk-printer-circuit-board-construction-set)
-
-that uses 2d PCB panels soldered together to form artistic cyberpunk themed models.
-
-The models themselves aren't moveable but the circuit boards look to have some functional LEDs.
-
-[![pcb cyberpunk construction](img/2020-11-24-pcb-cyberpunk.jpg)](https://www.kickstarter.com/projects/geeekclub/geeek-club-cyber-punk-printer-circuit-board-construction-set)
-
-([permalink](https://web.archive.org/web/20201117183451/https://www.kickstarter.com/projects/geeekclub/geeek-club-cyber-punk-printer-circuit-board-construction-set))
 
 ###### submitted by \[abetusk\]
 

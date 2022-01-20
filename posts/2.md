@@ -1,3 +1,22 @@
+Laser Shark LED Coaster
+----
+
+###### 2021-04-28
+
+\[Fred Temperton\] creates a [laser shark LED coaster](https://twitter.com/FredTemperton/status/1386440209114439684).
+
+[![laser shark LED](img/2021-04-28-laser-shark-coaster.gif))](https://twitter.com/FredTemperton/status/1386440209114439684)
+
+([permalink](https://web.archive.org/web/20210426114306/https://twitter.com/FredTemperton/status/1386440209114439684))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Eye Webcam
 ----
 
@@ -187,26 +206,6 @@ Experimental Bellow Instrument
 [![experimental bellows instrument](img/2021-02-23_organ.gif)](https://twitter.com/misterunderwood/status/1351587816355065864)
 
 ([permalink](https://web.archive.org/web/20210119175134/https://twitter.com/misterunderwood/status/1351587816355065864))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Daily Basic-Bitch Quote Machine
-----
-
-###### 2021-02-19
-
-\[llvllch\] creates a [daily basic-bitch quote machine](https://github.com/llvllch/bbq).
-
-[![basic-bitch quote](img/2021-02-19-basic-bitch-quote.jpg)](https://github.com/llvllch/bbq)
-
-
-([permalink](https://web.archive.org/web/20210219152813/https://github.com/llvllch/bbq))
 
 ###### submitted by \[abetusk\]
 
