@@ -1,3 +1,23 @@
+Cut and Fold Paper Art
+----
+
+###### 2022-01-25
+
+\[no-bu-ru\] creates "cut and fold" [paper art](https://no-bu-ru.com/collections/paper-art) inspired by Kirigami paper craft.
+
+[![Paper Art](img/2022-01-25-paper-fold-architecture.jpg)](https://no-bu-ru.com/collections/paper-art)
+
+
+([permalink](https://web.archive.org/web/20220125215733/https://no-bu-ru.com/collections/paper-art))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Super Coin Machine 3.0
 ----
 
@@ -173,26 +193,6 @@ Motorized Headdress
 
 
 ([permalink](https://web.archive.org/web/20211103211548/https://www.tiktok.com/@cameronhughes/video/7026055624618331438))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Cute Robot
-----
-
-###### 2021-10-26
-
-\[Pack\] creates a [cute robot](https://twitter.com/packratt1/status/1452866770503540742).
-
-[![cute robot](img/2021-10-26-cute-robot.gif)](https://twitter.com/packratt1/status/1452866770503540742)
-
-
-([permalink](https://web.archive.org/web/20211026090433/https://twitter.com/packratt1/status/1452866770503540742))
 
 ###### submitted by \[abetusk\]
 

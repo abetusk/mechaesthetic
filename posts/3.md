@@ -1,3 +1,22 @@
+Experimental Bellow Instrument
+----
+
+###### 2021-02-23
+
+\[Sam Underwood\] is working on [an experimental bellows instrument](https://twitter.com/misterunderwood/status/1351587816355065864).
+
+[![experimental bellows instrument](img/2021-02-23_organ.gif)](https://twitter.com/misterunderwood/status/1351587816355065864)
+
+([permalink](https://web.archive.org/web/20210119175134/https://twitter.com/misterunderwood/status/1351587816355065864))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Daily Basic-Bitch Quote Machine
 ----
 
@@ -171,27 +190,6 @@ a 3D printed housing and neodymium magnets.
 [![pcb 7 segment display](img/2021-02-01_pcbcoil-7seg.gif)](https://www.instructables.com/Mechanical-7-Segment-Display-V2/)
 
 ([permalink](https://web.archive.org/web/20210201193208/https://www.instructables.com/Mechanical-7-Segment-Display-V2/))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Cyber Visor
-----
-
-###### 2021-01-16
-
-Not much detail but [@CHA2trico shows off a stunning cyber visor](https://twitter.com/CHA2trico/status/1350486900205764608)
-that looks like a face shield with an OLED screen behind it.
-
-[![cyber visor](img/2021-01-16_cyber-mask.gif)](https://twitter.com/CHA2trico/status/1350486900205764608)
-
-
-([permalink](https://web.archive.org/web/20210116184033/https://twitter.com/CHA2trico/status/1350486900205764608))
 
 ###### submitted by \[abetusk\]
 
