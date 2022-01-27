@@ -1,3 +1,23 @@
+Doubly Modular Staircase
+----
+
+###### 2022-01-27
+
+\[Christopher Carlson\] creates a [doubly modular staircase scultpure](https://christophercarlson.com/portfolio/doubly-modular-sculpture/).
+
+[![doubly modular staircase scultpure](img/2022-01-27_doubly-modular-staircase.jpg)](https://christophercarlson.com/portfolio/doubly-modular-sculpture/)
+
+
+([permalink](https://web.archive.org/web/20210419061815/https://christophercarlson.com/portfolio/doubly-modular-sculpture/))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Cut and Fold Paper Art
 ----
 
@@ -173,26 +193,6 @@ Fabulous Handbag
 
 
 ([permalink](https://web.archive.org/web/20211105203642/https://www.instructables.com/A-Literal-Handbag/))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Motorized Headdress
-----
-
-###### 2021-11-03
-
-\[Cameron Hughes\] creates a [motorized headdress](https://www.tiktok.com/@cameronhughes/video/7026055624618331438).
-
-[![motorized headdress](img/2021-11-03-headdress.gif)](https://www.tiktok.com/@cameronhughes/video/7026055624618331438)
-
-
-([permalink](https://web.archive.org/web/20211103211548/https://www.tiktok.com/@cameronhughes/video/7026055624618331438))
 
 ###### submitted by \[abetusk\]
 

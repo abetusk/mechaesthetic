@@ -1,3 +1,23 @@
+Motorized Headdress
+----
+
+###### 2021-11-03
+
+\[Cameron Hughes\] creates a [motorized headdress](https://www.tiktok.com/@cameronhughes/video/7026055624618331438).
+
+[![motorized headdress](img/2021-11-03-headdress.gif)](https://www.tiktok.com/@cameronhughes/video/7026055624618331438)
+
+
+([permalink](https://web.archive.org/web/20211103211548/https://www.tiktok.com/@cameronhughes/video/7026055624618331438))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Cute Robot
 ----
 
@@ -169,26 +189,6 @@ Inverta
 
 
 ([permalink](https://web.archive.org/web/20210910004535if_/https://www.youtube.com/watch?v=8tGa5gpGkGM))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Kraken RGB PCB
-----
-
-###### 2021-09-02
-
-\[Jason Coon\] creates a [Kraken RGB LED PCB with diffusor](https://twitter.com/jasoncoon_/status/1432860347082412035).
-
-[![kraken rgb pcb](img/2021-09-02-octo-pcb.gif)](https://twitter.com/jasoncoon_/status/1432860347082412035)
-
-
-([permalink](https://web.archive.org/web/20210901010641/https://twitter.com/jasoncoon_/status/1432860347082412035))
 
 ###### submitted by \[abetusk\]
 
