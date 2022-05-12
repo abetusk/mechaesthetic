@@ -1,3 +1,23 @@
+Sound Reactive LED Matrix Mask
+----
+
+###### 2021-09-14
+
+\[TechnoChic\] creates a [sound reactive LED matrix mask](https://www.youtube.com/watch?v=idmaMeeAQwE).
+
+[![lady gaga vma cosplay led matrix mask](img/2021-09-14-led-matrix-mask.gif)](https://www.youtube.com/watch?v=idmaMeeAQwE)
+
+
+([permalink](https://web.archive.org/web/20210914203050/https://www.youtube.com/watch?v=idmaMeeAQwE))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Inverta
 ----
 
@@ -183,28 +203,6 @@ Tiny Laser Cutter
 Source is available on [GitHub](https://github.com/mike-rankin/ESP32_Burninator).
 
 ([permalink](https://web.archive.org/web/20210321084158/https://www.youtube.com/watch?v=s-a9CgvyQM8))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Cute Translucent Computer Case
-----
-
-###### 2021-03-17
-
-Details are light but \[sailorhg\] creates cute [computer cases and keyboards](https://twitter.com/sailorhg/status/1371921515625607168).
-
-[![cute case](img/2021-03-17-cute-case.jpg)](https://twitter.com/sailorhg/status/1371921515625607168)
-
-[bubblesort.io](https://shop.bubblesort.io/) has more information as well.
-
-
-([permalink](https://web.archive.org/web/20210317135452/https://twitter.com/sailorhg/status/1371921515625607168))
 
 ###### submitted by \[abetusk\]
 

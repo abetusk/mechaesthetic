@@ -1,3 +1,25 @@
+Cute Translucent Computer Case
+----
+
+###### 2021-03-17
+
+Details are light but \[sailorhg\] creates cute [computer cases and keyboards](https://twitter.com/sailorhg/status/1371921515625607168).
+
+[![cute case](img/2021-03-17-cute-case.jpg)](https://twitter.com/sailorhg/status/1371921515625607168)
+
+[bubblesort.io](https://shop.bubblesort.io/) has more information as well.
+
+
+([permalink](https://web.archive.org/web/20210317135452/https://twitter.com/sailorhg/status/1371921515625607168))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Volumetric OLED Display
 ----
 
@@ -170,28 +192,6 @@ The circuit board, design files and source code are available on [GitHub](https:
 They also have some blog posts with [more details on the machine and build](http://heartofpluto.co/2017/10/21/building-a-better-colour-changer-part-3-revising-the-design/#more-974).
 
 ([permalink](https://web.archive.org/web/20210207064947/https://twitter.com/HeartOfPluto_/status/1358306901289697282))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Protogen LED Helmet
-----
-
-###### 2021-02-08
-
-\[[@Coelacant1](https://twitter.com/Coelacant1)\] creates the [start of a protogen mask and suit](https://twitter.com/Coelacant1/status/1356490658190667776).
-
-[![image](img/2021-02-08_coelacant1.gif)](https://twitter.com/Coelacant1/status/1356490658190667776)
-
-The mask with a diffusor on can be seen [in a later tweet](https://twitter.com/tsiica/status/1358546371436048387).
-
-
-([permalink](https://web.archive.org/web/20210208215711/https://twitter.com/Coelacant1/status/1356490658190667776))
 
 ###### submitted by \[abetusk\]
 
