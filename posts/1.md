@@ -1,3 +1,23 @@
+Motorized Guitar Pick
+----
+
+###### 2021-11-08
+
+\[Clayton Darwin\] creates a [motorized guitar pick](https://www.youtube.com/watch?v=0zi1-Slm8zo).
+
+[![stepper motor guitar pick](img/2021-11-08-stepper-guitar-picker.gif)](https://www.youtube.com/watch?v=0zi1-Slm8zo)
+
+
+([permalink](https://web.archive.org/web/20201111013017/https://www.youtube.com/watch?v=0zi1-Slm8zo))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Typewriter Instrument
 ----
 
@@ -170,25 +190,6 @@ Linear Clock
 
 
 ([permalink](https://web.archive.org/web/20210917022529/https://www.reddit.com/r/arduino/comments/pnyy3g/i_made_a_physical_version_of_the_oddly_satisfying/))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Holo Clock
-----
-
-###### 2021-09-17
-
-\[Saulemmetquinn\] creates a [3d printed holo clock](https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/).
-
-[![3D printed holo clock](img/2021-09-17-holo-clock.jpg)](https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/)
-
-([permalink](https://web.archive.org/web/20210817195807/https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/))
 
 ###### submitted by \[abetusk\]
 

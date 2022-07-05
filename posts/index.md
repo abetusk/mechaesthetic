@@ -1,3 +1,22 @@
+Pocket Radio
+----
+
+###### 2022-07-05
+
+\[Stefan Wagner\] creates a small [FM pocket radio](https://github.com/wagiminator/ATtiny412-PocketRadio).
+
+[![pocket FM radio](img/2022-07-05-pocketfm.jpg)](https://github.com/wagiminator/ATtiny412-PocketRadio)
+
+([permalink](https://web.archive.org/web/20220704164010/https://github.com/wagiminator/ATtiny412-PocketRadio))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Needle Nails
 ----
 
@@ -172,26 +191,6 @@ PCB Christmas Tree
 
 
 ([permalink](https://web.archive.org/web/20210125181648/https://www.tindie.com/products/alexisgm/musical-led-christmas-tree-kit/))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Motorized Guitar Pick
-----
-
-###### 2021-11-08
-
-\[Clayton Darwin\] creates a [motorized guitar pick](https://www.youtube.com/watch?v=0zi1-Slm8zo).
-
-[![stepper motor guitar pick](img/2021-11-08-stepper-guitar-picker.gif)](https://www.youtube.com/watch?v=0zi1-Slm8zo)
-
-
-([permalink](https://web.archive.org/web/20201111013017/https://www.youtube.com/watch?v=0zi1-Slm8zo))
 
 ###### submitted by \[abetusk\]
 
