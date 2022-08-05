@@ -1,3 +1,22 @@
+Wolf Mask
+----
+
+###### 2021-02-08
+
+\[@WillowCreative_\] shows off [a wolf head assembly](https://twitter.com/WillowCreative_/status/1358489637749145601)
+
+[![wolf head assembly](img/2021-02-08_wolf.gif)](https://twitter.com/WillowCreative_/status/1358489637749145601)
+
+([permalink](https://web.archive.org/web/20210209043844/https://twitter.com/WillowCreative_/status/1358489637749145601))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Knitting Machine Automatic Color Changer
 ----
 
@@ -175,25 +194,6 @@ Death Sequencer
 [![image](img/2020-12-19_death-sequencer.gif)](https://joriswegner.de/death-sequencer/)
 
 ([permalink](https://web.archive.org/web/20201219142503/https://joriswegner.de/death-sequencer/))
-
-###### submitted by \[abetusk\]
-
----
-
-
-Custom Porsche Dashboard Gauge
-----
-
-
-###### 2020-12-19
-
-\[Evancli\] creates a replacement [quad dashboard gauge for their Porche 914](https://hackaday.io/project/176375-porsche-quad-gauge) .
-
-[![image](img/2020-12-19_porsche-gague.jpg)](https://hackaday.io/project/176375-porsche-quad-gauge)
-
-[Source available](https://github.com/Evancli/porsche-quad-gauge).
-
-([permalink](https://web.archive.org/web/20201219142027/https://hackaday.io/project/176375-porsche-quad-gauge))
 
 ###### submitted by \[abetusk\]
 
