@@ -1,3 +1,23 @@
+E-Ink Clock
+----
+
+###### 2021-04-03
+
+\[SQFMI\] creates an [E-Ink clock](https://twitter.com/sqfmi/status/1378081140867731457).
+
+[![e-ink clock](img/2021-04-03-eink-clock.gif)](https://twitter.com/sqfmi/status/1378081140867731457)
+
+
+([permalink](https://web.archive.org/web/20210403211404/https://twitter.com/sqfmi/status/1378081140867731457))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 RGB LED Dice
 ----
 
@@ -184,25 +204,6 @@ Though the details are light, \[s3msify\] creates an [automated drink mixer](htt
 
 
 ([permalink](https://web.archive.org/web/20210219150042/https://www.youtube.com/watch?v=c1HVvDC-dLs))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Plastic Bag Blowing in the Wind Machine
-----
-
-###### 2021-02-11
-
-\[MUDA-ZUKURI\] creates a [desktop machine that blows a plastic bag in the wind](https://youtu.be/LakPN8aIe5Q).
-
-[![plastic bag in the wind machine](img/2021-02-11_bagfan.gif)](https://youtu.be/LakPN8aIe5Q)
-
-([permalink](https://web.archive.org/web/20210211110811if_/https://www.youtube.com/watch?v=LakPN8aIe5Q&feature=youtu.be))
 
 ###### submitted by \[abetusk\]
 

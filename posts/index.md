@@ -1,3 +1,23 @@
+LED Matrix Window Frame
+----
+
+###### 2022-08-09
+
+\[andreasgysin\] creates [LED matrix window frames](https://twitter.com/andreasgysin/status/1556663717961601028).
+
+[![LED Matrix Window Frames](img/2022-08-09-window-led-frame.gif)](https://twitter.com/andreasgysin/status/1556663717961601028)
+
+
+([permalink](https://web.archive.org/web/20220808225654/https://twitter.com/andreasgysin/status/1556663717961601028))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 3D Printed Escalator
 ----
 
@@ -171,26 +191,6 @@ Landscape is generated from \[LingDong-\]'s [{Shan, Sui}*](https://github.com/Li
 
 
 ([permalink](https://web.archive.org/web/20210814134329/https://dheera.net/projects/einkframe/))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Cloud Display
-----
-
-###### 2021-12-14
-
-\[Rafael Lozano-Hemmer\] creates a [cloud display](https://www.lozano-hemmer.com/cloud_display.php).
-
-[![Cloud Display](img/2021-12-14-cloud-lozano-hemmer.gif)](https://www.lozano-hemmer.com/cloud_display.php)
-
-
-([permalink](https://web.archive.org/web/20210421062455/https://www.lozano-hemmer.com/cloud_display.php))
 
 ###### submitted by \[abetusk\]
 

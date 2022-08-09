@@ -1,3 +1,22 @@
+Plastic Bag Blowing in the Wind Machine
+----
+
+###### 2021-02-11
+
+\[MUDA-ZUKURI\] creates a [desktop machine that blows a plastic bag in the wind](https://youtu.be/LakPN8aIe5Q).
+
+[![plastic bag in the wind machine](img/2021-02-11_bagfan.gif)](https://youtu.be/LakPN8aIe5Q)
+
+([permalink](https://web.archive.org/web/20210211110811if_/https://www.youtube.com/watch?v=LakPN8aIe5Q&feature=youtu.be))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Wolf Mask
 ----
 
@@ -177,23 +196,6 @@ Augmented Ouija
 [![image](img/2020-12-19_ouija.gif)](https://joriswegner.de/augmented-ouija/)
 
 ([permalink](https://web.archive.org/web/20201219163519/https://joriswegner.de/augmented-ouija/))
-
-###### submitted by \[abetusk\]
-
----
-
-
-Death Sequencer
-----
-
-
-###### 2020-12-19
-
-\[Joris Wegner\] uses [the dead bodies of flies to create a step sequencer](https://joriswegner.de/death-sequencer/).
-
-[![image](img/2020-12-19_death-sequencer.gif)](https://joriswegner.de/death-sequencer/)
-
-([permalink](https://web.archive.org/web/20201219142503/https://joriswegner.de/death-sequencer/))
 
 ###### submitted by \[abetusk\]
 
