@@ -1,3 +1,26 @@
+Framed Generative E-Ink Landscape
+----
+
+###### 2021-12-29
+
+\[Dheera Venkatraman\] creates a [continuously scrolling generative landscape on
+a framed e-ink display](https://dheera.net/projects/einkframe/).
+
+[![generative landscape, framed e-ink display](img/2021-12-29-gen-eink.jpg)](https://dheera.net/projects/einkframe/)
+
+Landscape is generated from \[LingDong-\]'s [{Shan, Sui}*](https://github.com/LingDong-/shan-shui-inf) project.
+
+
+([permalink](https://web.archive.org/web/20210814134329/https://dheera.net/projects/einkframe/))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Cloud Display
 ----
 
@@ -169,26 +192,6 @@ Metal Hand Door Knob
 [![metal hand door knob](img/2021-09-30-metal-hand-knob.jpg)](https://www.instructables.com/My-Metal-Hand-Doorknob/)
 
 ([permalink](https://web.archive.org/web/20210929051223/https://www.instructables.com/My-Metal-Hand-Doorknob/))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Microsynth Business Card
-----
-
-###### 2021-09-30
-
-\[David Levi\] creates an analog microsynth business card.
-
-[![microsynth business card](img/2021-09-30-microsynth-card.jpg)](https://hackaday.io/project/181914-microsynth-part-biz-card-part-synth-all-analog)
-
-
-([permalink](https://web.archive.org/web/20210930211551/https://hackaday.io/project/181914-microsynth-part-biz-card-part-synth-all-analog))
 
 ###### submitted by \[abetusk\]
 

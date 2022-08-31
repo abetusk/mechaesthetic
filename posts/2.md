@@ -1,3 +1,23 @@
+Microsynth Business Card
+----
+
+###### 2021-09-30
+
+\[David Levi\] creates an analog microsynth business card.
+
+[![microsynth business card](img/2021-09-30-microsynth-card.jpg)](https://hackaday.io/project/181914-microsynth-part-biz-card-part-synth-all-analog)
+
+
+([permalink](https://web.archive.org/web/20210930211551/https://hackaday.io/project/181914-microsynth-part-biz-card-part-synth-all-analog))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Expletive Keyboard
 ----
 
@@ -169,29 +189,6 @@ Marc Teyessier creats an [anthropomorphic webcam](https://marcteyssier.com/proje
 
 
 ([permalink](https://web.archive.org/web/20210416225749/https://marcteyssier.com/projects/eyecam/))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Ferrofluid Speaker
-----
-
-###### 2021-04-23
-
-\[DAKD Jung\] creates a [ferrofluid speaker](https://youtu.be/7a3JiGTE9sc).
-
-[![ferrofluid speaker](img/2021-04-23-ferrofluid-speaker.gif)](https://youtu.be/7a3JiGTE9sc)
-
-There's a [build log](https://hackaday.io/project/179136-ferrofluid-display-cell-bluetooth-speaker) on Hack-a-Day
-showing details of the build.
-
-
-([permalink](https://web.archive.org/web/20210422005625/https://hackaday.io/project/179136-ferrofluid-display-cell-bluetooth-speaker))
 
 ###### submitted by \[abetusk\]
 

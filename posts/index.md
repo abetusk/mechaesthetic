@@ -1,3 +1,23 @@
+Dragonball
+----
+
+###### 2022-08-30
+
+\[Tesematsu\] creates a [3D printed dragonball](https://twitter.com/Tesematsu/status/1564571381131509760) made out of 60 individual tiled dragons.
+
+[![dragonball](img/2022-08-30_dragonball.jpg)](https://twitter.com/Tesematsu/status/1564571381131509760)
+
+
+([permalink](https://web.archive.org/web/20220831032150/https://twitter.com/Tesematsu/status/1564571381131509760))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 LED Matrix Window Frame
 ----
 
@@ -168,29 +188,6 @@ Tiger Tensegrity
 
 
 ([permalink](https://web.archive.org/web/20221230000000/https://twitter.com/3DPrintBunny/status/1483612192536956930))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Framed Generative E-Ink Landscape
-----
-
-###### 2021-12-29
-
-\[Dheera Venkatraman\] creates a [continuously scrolling generative landscape on
-a framed e-ink display](https://dheera.net/projects/einkframe/).
-
-[![generative landscape, framed e-ink display](img/2021-12-29-gen-eink.jpg)](https://dheera.net/projects/einkframe/)
-
-Landscape is generated from \[LingDong-\]'s [{Shan, Sui}*](https://github.com/LingDong-/shan-shui-inf) project.
-
-
-([permalink](https://web.archive.org/web/20210814134329/https://dheera.net/projects/einkframe/))
 
 ###### submitted by \[abetusk\]
 
