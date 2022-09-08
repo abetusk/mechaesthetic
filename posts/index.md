@@ -1,3 +1,23 @@
+Tiny LED Companion Cube
+----
+
+###### 2022-09-08
+
+\[Charlyn G\] creates a [tiny LED companion cube](https://learn.adafruit.com/tiny-led-wifi-cube).
+
+[![led companion cube](img/2022-09-08-companion-cube.gif)](https://learn.adafruit.com/tiny-led-wifi-cube)
+
+
+([permalink](https://web.archive.org/web/20220907165214/https://learn.adafruit.com/tiny-led-wifi-cube))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Dragonball
 ----
 
@@ -168,26 +188,6 @@ Super Coin Machine 3.0
 
 
 ([permalink](https://web.archive.org/web/20220120181650/https://www.youtube.com/watch?v=5DuVCqvTGqM))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Tiger Tensegrity
-----
-
-###### 2022-01-19
-
-\[3DPrintBunny\] creates a [floating tiger tensegrity](https://twitter.com/3DPrintBunny/status/1483612192536956930)
-
-[![tiger tensegrity](img/2022-01-19_tensegrity.jpg)](https://twitter.com/3DPrintBunny/status/1483612192536956930)
-
-
-([permalink](https://web.archive.org/web/20221230000000/https://twitter.com/3DPrintBunny/status/1483612192536956930))
 
 ###### submitted by \[abetusk\]
 
