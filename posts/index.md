@@ -1,3 +1,23 @@
+WOPR
+----
+
+###### 2023-02-15
+
+\[6502b\] creates a [scale model](https://twitter.com/6502b/status/1624098447245684763) of the War Operating Plan Response (WOPR) computer.
+
+[![wopr](img/2023-02-15_wopr.gif)](https://twitter.com/6502b/status/1624098447245684763)
+
+
+([permalink](https://web.archive.org/web/20230216060153/https://www.instagram.com/miniatua/))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Tiny LED Companion Cube
 ----
 
@@ -168,26 +188,6 @@ Cut and Fold Paper Art
 
 
 ([permalink](https://web.archive.org/web/20220125215733/https://no-bu-ru.com/collections/paper-art))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Super Coin Machine 3.0
-----
-
-###### 2022-01-20
-
-\[Daniele Tartaglia\] creates a [coin sorting machine](https://www.youtube.com/watch?v=5DuVCqvTGqM).
-
-[![coin sorting machine](img/2021-01-20-coin-sorter.gif)](https://www.youtube.com/watch?v=5DuVCqvTGqM)
-
-
-([permalink](https://web.archive.org/web/20220120181650/https://www.youtube.com/watch?v=5DuVCqvTGqM))
 
 ###### submitted by \[abetusk\]
 
