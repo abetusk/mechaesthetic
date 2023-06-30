@@ -1,3 +1,44 @@
+Ambient Machine
+----
+
+###### 2023-06-29
+
+\[Yuri Suzuki\] creates an [ambient machine](https://vimeo.com/817719249)
+
+[![ambient machine](img/2023-06-29-ambient-machine.png)](https://vimeo.com/817719249)
+
+[More info.](https://www.yurisuzuki.com/projects/the-ambient-machine)
+
+([permalink](https://web.archive.org/web/20230629014843/https://www.yurisuzuki.com/projects/the-ambient-machine), [video](https://web.archive.org/web/20230629014636/https://vimeo.com/817719249))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
+Wooden Computer
+----
+
+###### 2023-06-29
+
+\[Daniel Roeven\] creates a [wooden computer](https://twitter.com/danielroeven/status/1674139855511605271) with an e-ink display
+
+[![wooden computer](img/2023-06-29-wooden-computer.jpg)](https://twitter.com/danielroeven/status/1674139855511605271)
+
+
+([permalink](https://web.archive.org/web/20230629211315/https://twitter.com/danielroeven/status/1674139855511605271))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 WOPR
 ----
 
@@ -148,46 +189,6 @@ Paper and Tape Robot
 
 
 ([permalink](https://web.archive.org/web/20210412145000/https://www.geletina.com/lula))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Doubly Modular Staircase
-----
-
-###### 2022-01-27
-
-\[Christopher Carlson\] creates a [doubly modular staircase scultpure](https://christophercarlson.com/portfolio/doubly-modular-sculpture/).
-
-[![doubly modular staircase scultpure](img/2022-01-27_doubly-modular-staircase.jpg)](https://christophercarlson.com/portfolio/doubly-modular-sculpture/)
-
-
-([permalink](https://web.archive.org/web/20210419061815/https://christophercarlson.com/portfolio/doubly-modular-sculpture/))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Cut and Fold Paper Art
-----
-
-###### 2022-01-25
-
-\[no-bu-ru\] creates "cut and fold" [paper art](https://no-bu-ru.com/collections/paper-art) inspired by Kirigami paper craft.
-
-[![Paper Art](img/2022-01-25-paper-fold-architecture.jpg)](https://no-bu-ru.com/collections/paper-art)
-
-
-([permalink](https://web.archive.org/web/20220125215733/https://no-bu-ru.com/collections/paper-art))
 
 ###### submitted by \[abetusk\]
 
