@@ -1,3 +1,23 @@
+Paper and Tape Robot
+----
+
+###### 2022-05-10
+
+\[Olga Geletina\] creates a [robot out of paper out of paper and tape](https://www.geletina.com/lula).
+
+[![LULA paper and tape robot](img/2022-05-10-lula.jpg)](https://www.geletina.com/lula)
+
+
+([permalink](https://web.archive.org/web/20210412145000/https://www.geletina.com/lula))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Doubly Modular Staircase
 ----
 
@@ -173,26 +193,6 @@ Typewriter Instrument
 
 
 ([permalink](https://web.archive.org/web/20201103074334/https://www.youtube.com/watch?v=liDnSRDTBhQ))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Fabulous Handbag
-----
-
-###### 2021-11-06
-
-\[Tatterhood\] creates a [literal handbag](https://www.instructables.com/A-Literal-Handbag/).
-
-[![hand handbag](img/2021-11-06_handbag.gif)](https://www.instructables.com/A-Literal-Handbag/)
-
-
-([permalink](https://web.archive.org/web/20211105203642/https://www.instructables.com/A-Literal-Handbag/))
 
 ###### submitted by \[abetusk\]
 

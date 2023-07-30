@@ -1,3 +1,23 @@
+Fabulous Handbag
+----
+
+###### 2021-11-06
+
+\[Tatterhood\] creates a [literal handbag](https://www.instructables.com/A-Literal-Handbag/).
+
+[![hand handbag](img/2021-11-06_handbag.gif)](https://www.instructables.com/A-Literal-Handbag/)
+
+
+([permalink](https://web.archive.org/web/20211105203642/https://www.instructables.com/A-Literal-Handbag/))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Motorized Headdress
 ----
 
@@ -169,26 +189,6 @@ Sound Reactive LED Matrix Mask
 
 
 ([permalink](https://web.archive.org/web/20210914203050/https://www.youtube.com/watch?v=idmaMeeAQwE))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Inverta
-----
-
-###### 2021-09-10
-
-\[Jennifer Townley\] creates a kinetic chandelier called [Inverta](https://www.youtube.com/watch?v=8tGa5gpGkGM)
-
-[![Inverta](img/2021-09-10-inverta.gif)](https://www.youtube.com/watch?v=8tGa5gpGkGM)
-
-
-([permalink](https://web.archive.org/web/20210910004535if_/https://www.youtube.com/watch?v=8tGa5gpGkGM))
 
 ###### submitted by \[abetusk\]
 

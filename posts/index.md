@@ -1,3 +1,23 @@
+Marble Machine
+----
+
+###### 2023-07-29
+
+\[@marble_machine2\] creates an electric perpetual marble machine.
+
+[![motorized marble machine](img/2023-07-29-marble-machine.gif)](https://twitter.com/marble_machine2/status/1685235288388653056)
+
+
+([permalink](https://web.archive.org/web/20230730040141/https://twitter.com/i/status/1685235288388653056))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Ambient Machine
 ----
 
@@ -169,26 +189,6 @@ Needle Nails
 [![Needle Nails](img/2022-05-11-needle-nail.gif)](https://www.instagram.com/p/CP8xXBIDbSk/)
 
 ([permalink](https://web.archive.org/web/20220226154926/https://twitter.com/EvicShen/status/1403368102742532096))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Paper and Tape Robot
-----
-
-###### 2022-05-10
-
-\[Olga Geletina\] creates a [robot out of paper out of paper and tape](https://www.geletina.com/lula).
-
-[![LULA paper and tape robot](img/2022-05-10-lula.jpg)](https://www.geletina.com/lula)
-
-
-([permalink](https://web.archive.org/web/20210412145000/https://www.geletina.com/lula))
 
 ###### submitted by \[abetusk\]
 
