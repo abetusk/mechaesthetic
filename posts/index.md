@@ -1,3 +1,23 @@
+Joints Creak Like Tectonic Plates
+----
+
+###### 2024-09-17
+
+Tobias Bradford creates a sculpture called ["joints creak like tectonic plates"](https://x.com/MachinePix/status/1831811766289899642)
+
+[![image](img/2024-09-17-bradford-tectonic-joint.gif)](https://x.com/MachinePix/status/1831811766289899642)
+
+
+([permalink](https://web.archive.org/web/20240917162200/https://x.com/SentricSol?mx=2))
+
+###### submitted by abetusk
+
+
+
+
+---
+
+
 Marble Machine
 ----
 
@@ -170,25 +190,6 @@ Pocket Radio
 [![pocket FM radio](img/2022-07-05-pocketfm.jpg)](https://github.com/wagiminator/ATtiny412-PocketRadio)
 
 ([permalink](https://web.archive.org/web/20220704164010/https://github.com/wagiminator/ATtiny412-PocketRadio))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Needle Nails
-----
-
-###### 2022-05-11
-
-\[Victoria Shen\] creates [needle nails](https://www.instagram.com/p/CP8xXBIDbSk/) that play vinyl records.
-
-[![Needle Nails](img/2022-05-11-needle-nail.gif)](https://www.instagram.com/p/CP8xXBIDbSk/)
-
-([permalink](https://web.archive.org/web/20220226154926/https://twitter.com/EvicShen/status/1403368102742532096))
 
 ###### submitted by \[abetusk\]
 

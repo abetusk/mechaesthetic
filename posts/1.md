@@ -1,3 +1,22 @@
+Needle Nails
+----
+
+###### 2022-05-11
+
+\[Victoria Shen\] creates [needle nails](https://www.instagram.com/p/CP8xXBIDbSk/) that play vinyl records.
+
+[![Needle Nails](img/2022-05-11-needle-nail.gif)](https://www.instagram.com/p/CP8xXBIDbSk/)
+
+([permalink](https://web.archive.org/web/20220226154926/https://twitter.com/EvicShen/status/1403368102742532096))
+
+###### submitted by \[abetusk\]
+
+
+
+
+---
+
+
 Paper and Tape Robot
 ----
 
@@ -173,26 +192,6 @@ Motorized Guitar Pick
 
 
 ([permalink](https://web.archive.org/web/20201111013017/https://www.youtube.com/watch?v=0zi1-Slm8zo))
-
-###### submitted by \[abetusk\]
-
-
-
-
----
-
-
-Typewriter Instrument
-----
-
-###### 2021-11-08
-
-\[William Sun Petrus\] creates a [typewriter midi instrument](https://www.youtube.com/watch?v=liDnSRDTBhQ).
-
-[![typewriter midi](img/2021-11-08-typewriter-midi.gif)](https://www.youtube.com/watch?v=liDnSRDTBhQ)
-
-
-([permalink](https://web.archive.org/web/20201103074334/https://www.youtube.com/watch?v=liDnSRDTBhQ))
 
 ###### submitted by \[abetusk\]
 
