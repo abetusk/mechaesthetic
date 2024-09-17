@@ -1,0 +1,114 @@
+#!/usr/bin/python3
+#
+# To the extent possible under law, the person who associated CC0 with
+# this project has waived all copyright and related or neighboring rights
+# to this project.
+#
+# You should have received a copy of the CC0 legalcode along with this
+# work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
+#
+
+
+
+import re
+import yaml
+import os, sys
+import json
+import subprocess as sp
+
+YAML_CONFIG = "./mkdocs.yml"
+
+HTML_TEMPLATE = ""
+CONFIG_DATA = {}
+
+BASE_DIR = "theme/"
+
+HTML_TEMPLATE_FN = BASE_DIR + "base.html"
+
+ARTICLE_SRC_DIR = "data/"
+ARTICLE_DST_DIR = "site/"
+
+ARTICLE_LIST = [
+	"2020-10-24_0", "2020-10-24_1", "2020-10-24_2", "2020-10-24_3",
+	"2020-10-24_4", "2020-10-24_5", "2020-10-25_0", "2020-10-26_0",
+	"2020-10-28_0", "2020-10-30_0", "2020-11-02_0", "2020-11-02_1",
+	"2020-11-02_2", "2020-11-02_3", "2020-11-10_0", "2020-11-10_1",
+	"2020-11-13_0", "2020-11-19_0", "2020-11-24_0", "2020-11-24_1",
+	"2020-11-27_0", "2020-12-01_0", "2020-12-09_0", "2020-12-09_1",
+	"2020-12-11_0", "2020-12-19_0", "2020-12-19_1", "2020-12-19_2",
+	"2021-01-04_0", "2021-01-07_0", "2021-01-16_0", "2021-02-01_0",
+	"2021-02-02_0", "2021-02-08_0", "2021-02-08_1", "2021-02-08_2",
+	"2021-02-11_0", "2021-02-19_0.md", "2021-02-19_1.md", "2021-02-19_2.md",
+	"2021-02-23_0", "2021-03-02_0", "2021-03-02_1", "2021-03-17_0",
+	"2021-03-21_0", "2021-03-21_1", "2021-04-03_0", "2021-04-23_0",
+	"2021-04-23_1", "2021-04-28_0", "2021-07-05_0", "2021-09-02_0",
+	"2021-09-10_0", "2021-09-14_0", "2021-09-17_0", "2021-09-17_1",
+	"2021-09-26_0", "2021-09-30_0", "2021-09-30_1", "2021-10-26_0",
+	"2021-10-26_1", "2021-11-03_0", "2021-11-06_0", "2021-11-08_0",
+	"2021-11-08_1", "2021-11-22_0", "2021-12-14_0", "2021-12-29_0",
+	"2022-01-19_0", "2022-01-20_0", "2022-01-25_0", "2022-01-27_0",
+	"2022-05-10_0", "2022-05-11_0", "2022-07-05_0", "2022-08-05_0",
+	"2022-08-09_0", "2022-08-30_0.md", "2022-09-08_0", "2023-02-15_0",
+	"2023-06-29_0", "2023-06-29_1", "2023-07-29_0", "2024-09-17_0" ]
+
+
+with open(YAML_CONFIG) as fp:
+  try:
+    CONFIG_DATA = yaml.safe_load(fp)
+  except yaml.YAMLError as e:
+    print(e)
+    sys.exit(-1)
+
+#print(json.dumps(CONFIG_DATA, indent=2))
+
+#with open( CONFIG_DATA["theme"]["custom_dir"] + "base.html" ) as fp:
+with open( HTML_TEMPLATE_FN ) as fp:
+  HTML_TEMPLATE = fp.read()
+
+sp.call(['mkdir', '-p', ARTICLE_DST_DIR])
+sp.call(['cp', '-r', BASE_DIR + 'js', ARTICLE_DST_DIR])
+sp.call(['cp', '-r', BASE_DIR + 'css', ARTICLE_DST_DIR])
+sp.call(['cp', '-r', BASE_DIR + 'img', ARTICLE_DST_DIR])
+
+sp.call(['cp', '-r', ARTICLE_SRC_DIR + 'img', ARTICLE_DST_DIR])
+sp.call(['cp', '-r', ARTICLE_SRC_DIR + 'src', ARTICLE_DST_DIR])
+
+
+#print(HTML_TEMPLATE)
+
+for base_md_fn in ARTICLE_LIST:
+
+  # default to github flavored markdown
+  #
+  input_fmt = "gfm"
+  input_article_sfx = ".md"
+
+  # `pdmd` == Pandoc flavored Markdown
+  #
+  if (re.search('\.pdmd$', base_md_fn)):
+    input_fmt = "markdown"
+    input_article_sfx = ".pdmd"
+
+
+  md_fn = ARTICLE_SRC_DIR + base_md_fn
+
+  tmp_fn = "/tmp/out_tmp.html"
+
+  sp.call(['pandoc', '-f', input_fmt, '-o', tmp_fn, md_fn])
+
+  html_snippet = ""
+  with open(tmp_fn) as fp:
+    html_snippet = fp.read()
+
+  html_article = HTML_TEMPLATE
+  html_article = html_article.replace('{{page.content}}', html_snippet)
+
+  ARTICLE_FN = ARTICLE_DST_DIR + base_md_fn.replace(input_article_sfx, '.html')
+
+  print(ARTICLE_FN, "(", input_fmt, ")")
+
+  with open(ARTICLE_FN, "w") as fp:
+    fp.write(html_article)
+
+
+
